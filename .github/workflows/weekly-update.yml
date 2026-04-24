@@ -1,0 +1,65 @@
+name: Weekly Data Update
+
+on:
+  schedule:
+    # 每周一凌晨2点运行 (UTC时间)
+    - cron: '0 2 * * 1'
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Fetch latest papers from PubMed
+      run: |
+        cd data
+        python fetch_pubmed_v2.py
+
+    - name: Copy data to public
+      run: |
+        cp data/top100.json public/top100.json
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Build
+      run: npm run build
+
+    - name: Commit data update
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/top100.json data/top100.json
+        git commit -m "📊 Update: Weekly paper data refresh $(date -u '+%Y-%m-%d')" || exit 0
+        git push
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './dist'
+
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v4
