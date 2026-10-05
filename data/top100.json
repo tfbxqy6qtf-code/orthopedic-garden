@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:06:21.694713",
+  "generated_at": "2026-10-05T08:08:26.069491",
   "total_papers": 100,
   "categories": {
     "bone_regeneration": {
@@ -133,135 +133,168 @@
   },
   "papers": [
     {
-      "id": "31391117",
-      "pmid": "31391117",
-      "title": "The synergistic effect of electroacupuncture and bone mesenchymal stem cell transplantation on repairing thin endometrial injury in rats.",
+      "id": "7489417",
+      "pmid": "7489417",
+      "title": "Bone tissue engineering.",
       "authors": [
-        "Xia L",
-        "Meng Q",
-        "Xi J",
-        "Han Q",
-        "Cheng J"
+        "Crane GM",
+        "Ishaug SL",
+        "Mikos AG"
       ],
-      "journal": "Stem cell research & therapy",
-      "year": "2019",
-      "citations": 416,
-      "doi": "10.1186/s13287-019-1326-6",
+      "journal": "Nature medicine",
+      "year": "1995",
+      "citations": 492,
+      "doi": "",
       "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
       "flower_props": {
         "petal_count": 20,
-        "diameter": 70.99019513592785,
-        "stem_height": 82,
+        "diameter": 75.45268253204709,
+        "stem_height": 91,
         "scale": 2.0
       },
       "position": {
-        "x": 24.8,
+        "x": 28.39,
         "y": 0,
-        "z": 7.9
+        "z": -3.98
       },
       "rotation": {
         "x": 0,
-        "y": 34.144532293658294,
+        "y": 15.047536813365534,
         "z": 0
       }
     },
     {
-      "id": "17883946",
-      "pmid": "17883946",
-      "title": "Genistein stimulates osteoblastic differentiation via p38 MAPK-Cbfa1 pathway in bone marrow culture.",
+      "id": "34117836",
+      "pmid": "34117836",
+      "title": "Silk Biomaterials for Bone Tissue Engineering.",
       "authors": [
-        "Liao QC",
-        "Xiao ZS",
-        "Qin YF",
-        "Zhou HH"
+        "Ding Z",
+        "Cheng W",
+        "Mia MS",
+        "Lu Q"
       ],
-      "journal": "Acta pharmacologica Sinica",
-      "year": "2007",
-      "citations": 248,
-      "doi": "",
+      "journal": "Macromolecular bioscience",
+      "year": "2021",
+      "citations": 229,
+      "doi": "10.1002/mabi.202100153",
       "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
       "flower_props": {
-        "petal_count": 16,
-        "diameter": 59.370039370059054,
-        "stem_height": 61,
-        "scale": 1.592
+        "petal_count": 15,
+        "diameter": 57.83186487605389,
+        "stem_height": 58,
+        "scale": 1.516
       },
       "position": {
-        "x": 28.84,
+        "x": 30.17,
         "y": 0,
-        "z": -3.89
+        "z": 1.45
       },
       "rotation": {
         "x": 0,
-        "y": 154.78462453827126,
+        "y": 18.795531842956382,
         "z": 0
       }
     },
     {
-      "id": "32586355",
-      "pmid": "32586355",
-      "title": "Mitochondria transfer enhances proliferation, migration, and osteogenic differentiation of bone marrow mesenchymal stem cell and promotes bone defect healing.",
+      "id": "32384966",
+      "pmid": "32384966",
+      "title": "Radial P34HB Electrospun Fiber: A Scaffold for Bone Tissue Engineering.",
       "authors": [
-        "Guo Y",
-        "Chi X",
-        "Wang Y",
-        "Heng BC",
-        "Wei Y"
+        "Fu N",
+        "Meng Z",
+        "Jiao T",
+        "Guo A",
+        "Luo X"
       ],
-      "journal": "Stem cell research & therapy",
+      "journal": "Journal of nanoscience and nanotechnology",
       "year": "2020",
-      "citations": 179,
-      "doi": "10.1186/s13287-020-01704-9",
+      "citations": 216,
+      "doi": "10.1166/jnn.2020.18583",
       "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
       "flower_props": {
-        "petal_count": 11,
-        "diameter": 53.44772040064913,
-        "stem_height": 52,
-        "scale": 1.3159999999999998
+        "petal_count": 14,
+        "diameter": 56.742346141747674,
+        "stem_height": 57,
+        "scale": 1.464
       },
       "position": {
-        "x": 23.18,
+        "x": 29.51,
         "y": 0,
-        "z": -0.56
+        "z": 10.56
       },
       "rotation": {
         "x": 0,
-        "y": 235.5546956614845,
+        "y": 240.68504737345353,
         "z": 0
       }
     },
     {
-      "id": "29329642",
-      "pmid": "29329642",
-      "title": "Mesenchymal stem cell-macrophage crosstalk and bone healing.",
+      "id": "30468999",
+      "pmid": "30468999",
+      "title": "Silicate-based bioceramic scaffolds for dual-lineage regeneration of osteochondral defect.",
       "authors": [
-        "Pajarinen J",
-        "Lin T",
-        "Gibon E",
-        "Kohno Y",
-        "Maruyama M"
+        "Bunpetch V",
+        "Zhang X",
+        "Li T",
+        "Lin J",
+        "Maswikiti EP"
       ],
       "journal": "Biomaterials",
       "year": "2019",
-      "citations": 153,
-      "doi": "10.1016/j.biomaterials.2017.12.025",
+      "citations": 167,
+      "doi": "10.1016/j.biomaterials.2018.11.025",
       "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 11,
+        "diameter": 52.30711995830021,
+        "stem_height": 50,
+        "scale": 1.268
+      },
+      "position": {
+        "x": 34.79,
+        "y": 0,
+        "z": 13.41
+      },
+      "rotation": {
+        "x": 0,
+        "y": 325.867816512376,
+        "z": 0
+      }
+    },
+    {
+      "id": "26845481",
+      "pmid": "26845481",
+      "title": "Chitosan based biocomposite scaffolds for bone tissue engineering.",
+      "authors": [
+        "Saravanan S",
+        "Leena RS",
+        "Selvamurugan N"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "year": "2016",
+      "citations": 153,
+      "doi": "10.1016/j.ijbiomac.2016.01.112",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
       "flower_props": {
         "petal_count": 10,
         "diameter": 50.92329219213245,
@@ -269,2777 +302,13 @@
         "scale": 1.212
       },
       "position": {
-        "x": 29.19,
+        "x": 40.65,
         "y": 0,
-        "z": 1.36
+        "z": -1.03
       },
       "rotation": {
         "x": 0,
-        "y": 56.45277738821744,
-        "z": 0
-      }
-    },
-    {
-      "id": "24731423",
-      "pmid": "24731423",
-      "title": "[Effect of rat endothelial progenitor cell on proliferation and apoptosis of bone marrow mesenchymal stem cell].",
-      "authors": [
-        "Wen L",
-        "Wen N",
-        "Wang Y",
-        "Ding Y"
-      ],
-      "journal": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
-      "year": "2014",
-      "citations": 132,
-      "doi": "",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 8,
-        "diameter": 48.72281323269014,
-        "stem_height": 46,
-        "scale": 1.1280000000000001
-      },
-      "position": {
-        "x": 36.21,
-        "y": 0,
-        "z": -8.48
-      },
-      "rotation": {
-        "x": 0,
-        "y": 315.0505059514331,
-        "z": 0
-      }
-    },
-    {
-      "id": "35193674",
-      "pmid": "35193674",
-      "title": "Attenuates of NAD(+) impair BMSC osteogenesis and fracture repair through OXPHOS.",
-      "authors": [
-        "Li B",
-        "Shi Y",
-        "Liu M",
-        "Wu F",
-        "Hu X"
-      ],
-      "journal": "Stem cell research & therapy",
-      "year": "2022",
-      "citations": 85,
-      "doi": "10.1186/s13287-022-02748-9",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 43.048861143232216,
-        "stem_height": 40,
-        "scale": 0.94
-      },
-      "position": {
-        "x": 25.63,
-        "y": 0,
-        "z": -11.6
-      },
-      "rotation": {
-        "x": 0,
-        "y": 76.02782517344824,
-        "z": 0
-      }
-    },
-    {
-      "id": "39368012",
-      "pmid": "39368012",
-      "title": "MAGL blockade alleviates steroid-induced femoral head osteonecrosis by reprogramming BMSC fate in rat.",
-      "authors": [
-        "Yang N",
-        "Li M",
-        "Li X",
-        "Wu L",
-        "Wang W"
-      ],
-      "journal": "Cellular and molecular life sciences : CMLS",
-      "year": "2024",
-      "citations": 81,
-      "doi": "10.1007/s00018-024-05443-5",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 42.5,
-        "stem_height": 40,
-        "scale": 0.9239999999999999
-      },
-      "position": {
-        "x": 30.84,
-        "y": 0,
-        "z": 9.01
-      },
-      "rotation": {
-        "x": 0,
-        "y": 228.33753502776156,
-        "z": 0
-      }
-    },
-    {
-      "id": "41025103",
-      "pmid": "41025103",
-      "title": "Bone marrow mesenchymal stem cell-derived exosomal lactate dehydrogenase A promotes tendon-bone healing via histone lactylation-mediated cartilage regeneration.",
-      "authors": [
-        "Zhang T",
-        "Huang Q",
-        "Gan KF"
-      ],
-      "journal": "World journal of stem cells",
-      "year": "2025",
-      "citations": 79,
-      "doi": "10.4252/wjsc.v17.i9.106282",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 42.22048604328897,
-        "stem_height": 39,
-        "scale": 0.9159999999999999
-      },
-      "position": {
-        "x": 25.85,
-        "y": 0,
-        "z": 8.11
-      },
-      "rotation": {
-        "x": 0,
-        "y": 298.33567542061644,
-        "z": 0
-      }
-    },
-    {
-      "id": "30899146",
-      "pmid": "30899146",
-      "title": "Age dependent effects of NELL-1 isoforms on bone marrow stromal cells.",
-      "authors": [
-        "Meyers CA",
-        "Sun Z",
-        "Chang L",
-        "Ding C",
-        "Lu A"
-      ],
-      "journal": "Journal of orthopaedics",
-      "year": "2019",
-      "citations": 56,
-      "doi": "10.1016/j.jor.2019.02.006",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 38.70828693386971,
-        "stem_height": 37,
-        "scale": 0.824
-      },
-      "position": {
-        "x": 36.29,
-        "y": 0,
-        "z": -6.35
-      },
-      "rotation": {
-        "x": 0,
-        "y": 251.90157778220876,
-        "z": 0
-      }
-    },
-    {
-      "id": "39412003",
-      "pmid": "39412003",
-      "title": "Retraction: BMSC-derived exosomes carrying microRNA-122-5p promote progression of osteoblasts in osteonecrosis of the femoral head.",
-      "authors": [],
-      "journal": "Clinical science (London, England : 1979)",
-      "year": "2024",
-      "citations": 39,
-      "doi": "10.1042/CS-2018-1064_RET",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 35.612494995995995,
-        "stem_height": 34,
-        "scale": 0.756
-      },
-      "position": {
-        "x": 25.73,
-        "y": 0,
-        "z": -7.9
-      },
-      "rotation": {
-        "x": 0,
-        "y": 353.56261942708517,
-        "z": 0
-      }
-    },
-    {
-      "id": "41106767",
-      "pmid": "41106767",
-      "title": "Bone marrow mesenchymal stem cell-derived exosomes HADH alleviate vitiligo by activating the Nrf2/HO-1 pathway.",
-      "authors": [
-        "Tang S",
-        "Li X",
-        "Xi J"
-      ],
-      "journal": "Experimental cell research",
-      "year": "2025",
-      "citations": 35,
-      "doi": "10.1016/j.yexcr.2025.114798",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 34.79019945774904,
-        "stem_height": 34,
-        "scale": 0.74
-      },
-      "position": {
-        "x": 30.34,
-        "y": 0,
-        "z": 4.94
-      },
-      "rotation": {
-        "x": 0,
-        "y": 333.7446242749396,
-        "z": 0
-      }
-    },
-    {
-      "id": "33741350",
-      "pmid": "33741350",
-      "title": "Bone marrow mesenchymal stem cell-derived exosomes attenuate cerebral ischemia-reperfusion injury-induced neuroinflammation and pyroptosis by modulating microglia M1/M2 phenotypes.",
-      "authors": [
-        "Liu X",
-        "Zhang M",
-        "Liu H",
-        "Zhu R",
-        "He H"
-      ],
-      "journal": "Experimental neurology",
-      "year": "2021",
-      "citations": 30,
-      "doi": "10.1016/j.expneurol.2021.113700",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": 30.05,
-        "y": 0,
-        "z": -0.51
-      },
-      "rotation": {
-        "x": 0,
-        "y": 78.74275669470696,
-        "z": 0
-      }
-    },
-    {
-      "id": "36630753",
-      "pmid": "36630753",
-      "title": "Non-coding RNAs regulate the BMP/Smad pathway during osteogenic differentiation of stem cells.",
-      "authors": [
-        "Zhang Q",
-        "Long Y",
-        "Jin L",
-        "Li C",
-        "Long J"
-      ],
-      "journal": "Acta histochemica",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.1016/j.acthis.2023.151998",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": 41.32,
-        "y": 0,
-        "z": 0.42
-      },
-      "rotation": {
-        "x": 0,
-        "y": 352.6032559946404,
-        "z": 0
-      }
-    },
-    {
-      "id": "36517907",
-      "pmid": "36517907",
-      "title": "circ-Iqsec1 induces bone marrow-derived mesenchymal stem cell (BMSC) osteogenic differentiation through the miR-187-3p/Satb2 signaling pathway.",
-      "authors": [
-        "Fan L",
-        "Yang K",
-        "Yu R",
-        "Hui H",
-        "Wu W"
-      ],
-      "journal": "Arthritis research & therapy",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.1186/s13075-022-02964-x",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": 33.3,
-        "y": 0,
-        "z": -2.88
-      },
-      "rotation": {
-        "x": 0,
-        "y": 212.015109342004,
-        "z": 0
-      }
-    },
-    {
-      "id": "35680812",
-      "pmid": "35680812",
-      "title": "[Effect and Mechanism of Cxcr4 Gene-Modified BMSC-Derived Exosomes on Aplastic Anemia].",
-      "authors": [
-        "Kang HY",
-        "Liu J",
-        "Chen Z",
-        "Tong CQ",
-        "Ji HS"
-      ],
-      "journal": "Zhongguo shi yan xue ye xue za zhi",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.19746/j.cnki.issn.1009-2137.2022.03.026",
-      "abstract": "",
-      "category": "stem_cells",
-      "category_name": "干细胞研究",
-      "flower_type": "lotus",
-      "flower_color": "#F9A8D4",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": 29.48,
-        "y": 0,
-        "z": -0.93
-      },
-      "rotation": {
-        "x": 0,
-        "y": 36.837979212469946,
-        "z": 0
-      }
-    },
-    {
-      "id": "31034380",
-      "pmid": "31034380",
-      "title": "Osteoarthritis.",
-      "authors": [
-        "Hunter DJ",
-        "Bierma-Zeinstra S"
-      ],
-      "journal": "Lancet (London, England)",
-      "year": "2019",
-      "citations": 324,
-      "doi": "10.1016/S0140-6736(19)30417-9",
-      "abstract": "",
-      "category": "cartilage",
-      "category_name": "关节软骨研究",
-      "flower_type": "tulip",
-      "flower_color": "#C084FC",
-      "flower_props": {
-        "petal_count": 20,
-        "diameter": 65.0,
-        "stem_height": 70,
-        "scale": 1.896
-      },
-      "position": {
-        "x": 18.63,
-        "y": 0,
-        "z": 22.87
-      },
-      "rotation": {
-        "x": 0,
-        "y": 20.239538274218056,
-        "z": 0
-      }
-    },
-    {
-      "id": "32650828",
-      "pmid": "32650828",
-      "title": "Bone marrow mesenchymal stem cell-derived exosomes protect cartilage damage and relieve knee osteoarthritis pain in a rat model of osteoarthritis.",
-      "authors": [
-        "He L",
-        "He T",
-        "Xing J",
-        "Zhou Q",
-        "Fan L"
-      ],
-      "journal": "Stem cell research & therapy",
-      "year": "2020",
-      "citations": 69,
-      "doi": "10.1186/s13287-020-01781-w",
-      "abstract": "",
-      "category": "cartilage",
-      "category_name": "关节软骨研究",
-      "flower_type": "tulip",
-      "flower_color": "#C084FC",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 40.76655965729519,
-        "stem_height": 38,
-        "scale": 0.876
-      },
-      "position": {
-        "x": 27.63,
-        "y": 0,
-        "z": 28.32
-      },
-      "rotation": {
-        "x": 0,
-        "y": 103.4538338926626,
-        "z": 0
-      }
-    },
-    {
-      "id": "31608495",
-      "pmid": "31608495",
-      "title": "BMSCs-Derived Exosomes Ameliorate Pain Via Abrogation of Aberrant Nerve Invasion in Subchondral Bone in Lumbar Facet Joint Osteoarthritis.",
-      "authors": [
-        "Li J",
-        "Ding Z",
-        "Li Y",
-        "Wang W",
-        "Wang J"
-      ],
-      "journal": "Journal of orthopaedic research : official publication of the Orthopaedic Research Society",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1002/jor.24497",
-      "abstract": "",
-      "category": "cartilage",
-      "category_name": "关节软骨研究",
-      "flower_type": "tulip",
-      "flower_color": "#C084FC",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": 21.56,
-        "y": 0,
-        "z": 17.36
-      },
-      "rotation": {
-        "x": 0,
-        "y": 68.87755408487973,
-        "z": 0
-      }
-    },
-    {
-      "id": "30711189",
-      "pmid": "30711189",
-      "title": "Angiogenesis Process in Osteosarcoma: An Updated Perspective of Pathophysiology and Therapeutics.",
-      "authors": [
-        "Li YS",
-        "Liu Q",
-        "Tian J",
-        "He HB",
-        "Luo W"
-      ],
-      "journal": "The American journal of the medical sciences",
-      "year": "2019",
-      "citations": 316,
-      "doi": "10.1016/j.amjms.2018.12.004",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 20,
-        "diameter": 64.44097208657794,
-        "stem_height": 69,
-        "scale": 1.8639999999999999
-      },
-      "position": {
-        "x": 1.34,
-        "y": 0,
-        "z": 39.04
-      },
-      "rotation": {
-        "x": 0,
-        "y": 286.44818450092305,
-        "z": 0
-      }
-    },
-    {
-      "id": "27058531",
-      "pmid": "27058531",
-      "title": "Present Advances and Future Perspectives of Molecular Targeted Therapy for Osteosarcoma.",
-      "authors": [
-        "Shaikh AB",
-        "Li F",
-        "Li M",
-        "He B",
-        "He X"
-      ],
-      "journal": "International journal of molecular sciences",
-      "year": "2016",
-      "citations": 259,
-      "doi": "10.3390/ijms17040506",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 17,
-        "diameter": 60.233692348577705,
-        "stem_height": 62,
-        "scale": 1.6360000000000001
-      },
-      "position": {
-        "x": -11.82,
-        "y": 0,
-        "z": 20.88
-      },
-      "rotation": {
-        "x": 0,
-        "y": 310.25298854766,
-        "z": 0
-      }
-    },
-    {
-      "id": "30153855",
-      "pmid": "30153855",
-      "title": "HSP90AA1-mediated autophagy promotes drug resistance in osteosarcoma.",
-      "authors": [
-        "Xiao X",
-        "Wang W",
-        "Li Y",
-        "Yang D",
-        "Li X"
-      ],
-      "journal": "Journal of experimental & clinical cancer research : CR",
-      "year": "2018",
-      "citations": 193,
-      "doi": "10.1186/s13046-018-0880-6",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 12,
-        "diameter": 54.73110997362451,
-        "stem_height": 54,
-        "scale": 1.3719999999999999
-      },
-      "position": {
-        "x": -6.32,
-        "y": 0,
-        "z": 34.37
-      },
-      "rotation": {
-        "x": 0,
-        "y": 91.76611075944388,
-        "z": 0
-      }
-    },
-    {
-      "id": "25882220",
-      "pmid": "25882220",
-      "title": "Doxorubicin Action on Mitochondria: Relevance to Osteosarcoma Therapy?",
-      "authors": [
-        "Armstrong J",
-        "Dass CR"
-      ],
-      "journal": "Current drug targets",
-      "year": "2018",
-      "citations": 184,
-      "doi": "10.2174/1389450116666150416115852",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 12,
-        "diameter": 53.91164991562634,
-        "stem_height": 53,
-        "scale": 1.3359999999999999
-      },
-      "position": {
-        "x": -6.1,
-        "y": 0,
-        "z": 30.5
-      },
-      "rotation": {
-        "x": 0,
-        "y": 315.58616963114906,
-        "z": 0
-      }
-    },
-    {
-      "id": "26289849",
-      "pmid": "26289849",
-      "title": "Letter regarding Zhang et al. entitled \"Systematic review of high-dose and standard-dose chemotherapies in the treatment of primary well-differentiated osteosarcoma\".",
-      "authors": [
-        "Zhu KW",
-        "Wang WC",
-        "Wu R",
-        "Chen D"
-      ],
-      "journal": "Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine",
-      "year": "2015",
-      "citations": 170,
-      "doi": "10.1007/s13277-015-3910-4",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 11,
-        "diameter": 52.59601202601325,
-        "stem_height": 51,
-        "scale": 1.28
-      },
-      "position": {
-        "x": -1.81,
-        "y": 0,
-        "z": 16.87
-      },
-      "rotation": {
-        "x": 0,
-        "y": 299.2710759248679,
-        "z": 0
-      }
-    },
-    {
-      "id": "30871044",
-      "pmid": "30871044",
-      "title": "Adjuvant Biophysical Therapies in Osteosarcoma.",
-      "authors": [
-        "Carina V",
-        "Costa V",
-        "Sartori M",
-        "Bellavia D",
-        "De Luca A"
-      ],
-      "journal": "Cancers",
-      "year": "2019",
-      "citations": 135,
-      "doi": "10.3390/cancers11030348",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 9,
-        "diameter": 49.047375096555626,
-        "stem_height": 46,
-        "scale": 1.1400000000000001
-      },
-      "position": {
-        "x": -5.84,
-        "y": 0,
-        "z": 28.28
-      },
-      "rotation": {
-        "x": 0,
-        "y": 284.79659030159866,
-        "z": 0
-      }
-    },
-    {
-      "id": "30355836",
-      "pmid": "30355836",
-      "title": "Femoral Expandable Prosthesis In Bone Tumor of an Adult: A Case Report.",
-      "authors": [
-        "Fenga D",
-        "Rosa MA"
-      ],
-      "journal": "Folia medica",
-      "year": "2018",
-      "citations": 131,
-      "doi": "10.2478/folmed-2018-0019",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 8,
-        "diameter": 48.61380785564899,
-        "stem_height": 46,
-        "scale": 1.124
-      },
-      "position": {
-        "x": -8.82,
-        "y": 0,
-        "z": 29.15
-      },
-      "rotation": {
-        "x": 0,
-        "y": 43.86674183939304,
-        "z": 0
-      }
-    },
-    {
-      "id": "42745749",
-      "pmid": "42745749",
-      "title": "Metabolic reprogramming-related drug resistance in osteosarcoma: from molecular mechanisms to therapeutic translation.",
-      "authors": [
-        "Wu Q",
-        "Chen H",
-        "Li J"
-      ],
-      "journal": "Frontiers in molecular biosciences",
-      "year": "2026",
-      "citations": 98,
-      "doi": "10.3389/fmolb.2026.1928880",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 6,
-        "diameter": 44.748737341529164,
-        "stem_height": 42,
-        "scale": 0.992
-      },
-      "position": {
-        "x": -6.47,
-        "y": 0,
-        "z": 29.03
-      },
-      "rotation": {
-        "x": 0,
-        "y": 130.06356615297415,
-        "z": 0
-      }
-    },
-    {
-      "id": "23802944",
-      "pmid": "23802944",
-      "title": "Osteosarcoma with cardiac metastasis in a 22-year-old man: a case report and review of cardiac tumors.",
-      "authors": [
-        "Pinder M",
-        "CharafEddine A",
-        "Parnell AS",
-        "DiBardino DJ",
-        "Knudson JD"
-      ],
-      "journal": "Congenital heart disease",
-      "year": "2014",
-      "citations": 89,
-      "doi": "10.1111/chd.12113",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 43.5849528301415,
-        "stem_height": 41,
-        "scale": 0.956
-      },
-      "position": {
-        "x": -10.02,
-        "y": 0,
-        "z": 29.91
-      },
-      "rotation": {
-        "x": 0,
-        "y": 153.24402724417502,
-        "z": 0
-      }
-    },
-    {
-      "id": "27760307",
-      "pmid": "27760307",
-      "title": "Molecular genetics of osteosarcoma.",
-      "authors": [
-        "Rickel K",
-        "Fang F",
-        "Tao J"
-      ],
-      "journal": "Bone",
-      "year": "2017",
-      "citations": 86,
-      "doi": "10.1016/j.bone.2016.10.017",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 43.184046238739256,
-        "stem_height": 40,
-        "scale": 0.944
-      },
-      "position": {
-        "x": 2.65,
-        "y": 0,
-        "z": 20.93
-      },
-      "rotation": {
-        "x": 0,
-        "y": 108.64799443453802,
-        "z": 0
-      }
-    },
-    {
-      "id": "22935032",
-      "pmid": "22935032",
-      "title": "Oral and maxillofacial osteosarcoma in dogs: a review.",
-      "authors": [
-        "Farcas N",
-        "Arzi B",
-        "Verstraete FJ"
-      ],
-      "journal": "Veterinary and comparative oncology",
-      "year": "2014",
-      "citations": 79,
-      "doi": "10.1111/j.1476-5829.2012.00352.x",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 42.22048604328897,
-        "stem_height": 39,
-        "scale": 0.9159999999999999
-      },
-      "position": {
-        "x": -0.12,
-        "y": 0,
-        "z": 37.05
-      },
-      "rotation": {
-        "x": 0,
-        "y": 32.71919521831292,
-        "z": 0
-      }
-    },
-    {
-      "id": "24654989",
-      "pmid": "24654989",
-      "title": "Proteomics of osteosarcoma.",
-      "authors": [
-        "Bernardini G",
-        "Laschi M",
-        "Geminiani M",
-        "Santucci A"
-      ],
-      "journal": "Expert review of proteomics",
-      "year": "2014",
-      "citations": 77,
-      "doi": "10.1586/14789450.2014.900445",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 41.93741096848031,
-        "stem_height": 39,
-        "scale": 0.9079999999999999
-      },
-      "position": {
-        "x": -4.63,
-        "y": 0,
-        "z": 26.51
-      },
-      "rotation": {
-        "x": 0,
-        "y": 190.09652726445125,
-        "z": 0
-      }
-    },
-    {
-      "id": "29923370",
-      "pmid": "29923370",
-      "title": "Immunotherapy for osteosarcoma: Where do we go from here?",
-      "authors": [
-        "Wedekind MF",
-        "Wagner LM",
-        "Cripe TP"
-      ],
-      "journal": "Pediatric blood & cancer",
-      "year": "2018",
-      "citations": 60,
-      "doi": "10.1002/pbc.27227",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 39.364916731037084,
-        "stem_height": 37,
-        "scale": 0.84
-      },
-      "position": {
-        "x": -2.23,
-        "y": 0,
-        "z": 33.23
-      },
-      "rotation": {
-        "x": 0,
-        "y": 131.96911168162896,
-        "z": 0
-      }
-    },
-    {
-      "id": "17976362",
-      "pmid": "17976362",
-      "title": "Sarcoma.",
-      "authors": [
-        "Skubitz KM",
-        "D'Adamo DR"
-      ],
-      "journal": "Mayo Clinic proceedings",
-      "year": "2007",
-      "citations": 50,
-      "doi": "",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 37.67766952966369,
-        "stem_height": 36,
-        "scale": 0.8
-      },
-      "position": {
-        "x": -4.58,
-        "y": 0,
-        "z": 36.7
-      },
-      "rotation": {
-        "x": 0,
-        "y": 331.97905423022416,
-        "z": 0
-      }
-    },
-    {
-      "id": "7002283",
-      "pmid": "7002283",
-      "title": "Intracortical osteosarcoma.",
-      "authors": [
-        "Kyriakos M"
-      ],
-      "journal": "Cancer",
-      "year": "1980",
-      "citations": 46,
-      "doi": "",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 36.95582495781317,
-        "stem_height": 35,
-        "scale": 0.784
-      },
-      "position": {
-        "x": -12.02,
-        "y": 0,
-        "z": 21.03
-      },
-      "rotation": {
-        "x": 0,
-        "y": 83.44244544967431,
-        "z": 0
-      }
-    },
-    {
-      "id": "33235735",
-      "pmid": "33235735",
-      "title": "Chondroblastic osteosarcoma-A case report and review of literature.",
-      "authors": [
-        "Mamachan P",
-        "Dang V",
-        "Bharadwaj NS",
-        "DeSilva N",
-        "Kant P"
-      ],
-      "journal": "Clinical case reports",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1002/ccr3.1761",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": 0.12,
-        "y": 0,
-        "z": 40.88
-      },
-      "rotation": {
-        "x": 0,
-        "y": 87.80236739635232,
-        "z": 0
-      }
-    },
-    {
-      "id": "34815871",
-      "pmid": "34815871",
-      "title": "Primary breast osteosarcoma: A case report and review of the literature.",
-      "authors": [
-        "Omranipour R",
-        "Ensani F",
-        "Hassanesfahani M"
-      ],
-      "journal": "Clinical case reports",
-      "year": "2021",
-      "citations": 30,
-      "doi": "10.1002/ccr3.5044",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -6.72,
-        "y": 0,
-        "z": 28.15
-      },
-      "rotation": {
-        "x": 0,
-        "y": 226.02523373314096,
-        "z": 0
-      }
-    },
-    {
-      "id": "34956899",
-      "pmid": "34956899",
-      "title": "Osteosarcoma and Metastasis.",
-      "authors": [
-        "Sheng G",
-        "Gao Y",
-        "Yang Y",
-        "Wu H"
-      ],
-      "journal": "Frontiers in oncology",
-      "year": "2021",
-      "citations": 30,
-      "doi": "10.3389/fonc.2021.780264",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -6.04,
-        "y": 0,
-        "z": 29.51
-      },
-      "rotation": {
-        "x": 0,
-        "y": 90.19249934716152,
-        "z": 0
-      }
-    },
-    {
-      "id": "33359211",
-      "pmid": "33359211",
-      "title": "Immunotherapy for osteosarcoma: Fundamental mechanism, rationale, and recent breakthroughs.",
-      "authors": [
-        "Chen C",
-        "Xie L",
-        "Ren T",
-        "Huang Y",
-        "Xu J"
-      ],
-      "journal": "Cancer letters",
-      "year": "2021",
-      "citations": 30,
-      "doi": "10.1016/j.canlet.2020.12.024",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -2.86,
-        "y": 0,
-        "z": 27.34
-      },
-      "rotation": {
-        "x": 0,
-        "y": 140.05439228010997,
-        "z": 0
-      }
-    },
-    {
-      "id": "34742481",
-      "pmid": "34742481",
-      "title": "Osteosarcoma: Old and New Challenges.",
-      "authors": [
-        "Yoshida A"
-      ],
-      "journal": "Surgical pathology clinics",
-      "year": "2021",
-      "citations": 30,
-      "doi": "10.1016/j.path.2021.06.003",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -0.85,
-        "y": 0,
-        "z": 34.28
-      },
-      "rotation": {
-        "x": 0,
-        "y": 159.72211980662604,
-        "z": 0
-      }
-    },
-    {
-      "id": "32483730",
-      "pmid": "32483730",
-      "title": "HER2-Targeted Therapy in Osteosarcoma.",
-      "authors": [
-        "Gill J",
-        "Hingorani P",
-        "Roth M",
-        "Gorlick R"
-      ],
-      "journal": "Advances in experimental medicine and biology",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1007/978-3-030-43032-0_5",
-      "abstract": "",
-      "category": "tumor",
-      "category_name": "骨肿瘤",
-      "flower_type": "hibiscus",
-      "flower_color": "#EF4444",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -10.45,
-        "y": 0,
-        "z": 27.67
-      },
-      "rotation": {
-        "x": 0,
-        "y": 280.8417453895581,
-        "z": 0
-      }
-    },
-    {
-      "id": "21252473",
-      "pmid": "21252473",
-      "title": "Sox9 expression during fracture repair.",
-      "authors": [
-        "Shintaku Y",
-        "Murakami T",
-        "Yanagita T",
-        "Kawanabe N",
-        "Fukunaga T"
-      ],
-      "journal": "Cells, tissues, organs",
-      "year": "2011",
-      "citations": 287,
-      "doi": "10.1159/000322557",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 19,
-        "diameter": 62.352685865243544,
-        "stem_height": 65,
-        "scale": 1.7479999999999998
-      },
-      "position": {
-        "x": -23.13,
-        "y": 0,
-        "z": 24.24
-      },
-      "rotation": {
-        "x": 0,
-        "y": 297.44318419940294,
-        "z": 0
-      }
-    },
-    {
-      "id": "34740382",
-      "pmid": "34740382",
-      "title": "Parkinson's in the bone.",
-      "authors": [
-        "Xiong L",
-        "Pan JX",
-        "Guo HH",
-        "Mei L",
-        "Xiong WC"
-      ],
-      "journal": "Cell & bioscience",
-      "year": "2021",
-      "citations": 244,
-      "doi": "10.1186/s13578-021-00702-5",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 16,
-        "diameter": 59.05124837953327,
-        "stem_height": 60,
-        "scale": 1.576
-      },
-      "position": {
-        "x": -28.03,
-        "y": 0,
-        "z": 16.74
-      },
-      "rotation": {
-        "x": 0,
-        "y": 153.23779972408815,
-        "z": 0
-      }
-    },
-    {
-      "id": "30191772",
-      "pmid": "30191772",
-      "title": "Antiosteoporotic Drugs to Promote Bone Regeneration Related to Titanium Implants: A Systematic Review and Meta-Analysis.",
-      "authors": [
-        "Basudan AM",
-        "Shaheen MY",
-        "de Vries RB",
-        "van den Beucken JJJP",
-        "Jansen JA"
-      ],
-      "journal": "Tissue engineering. Part B, Reviews",
-      "year": "2019",
-      "citations": 222,
-      "doi": "10.1089/ten.TEB.2018.0120",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 14,
-        "diameter": 57.24916106437835,
-        "stem_height": 57,
-        "scale": 1.488
-      },
-      "position": {
-        "x": -26.09,
-        "y": 0,
-        "z": 13.03
-      },
-      "rotation": {
-        "x": 0,
-        "y": 202.4728304997261,
-        "z": 0
-      }
-    },
-    {
-      "id": "33615702",
-      "pmid": "33615702",
-      "title": "Biomaterial Properties Modulating Bone Regeneration.",
-      "authors": [
-        "Zhu Y",
-        "Goh C",
-        "Shrestha A"
-      ],
-      "journal": "Macromolecular bioscience",
-      "year": "2021",
-      "citations": 206,
-      "doi": "10.1002/mabi.202000365",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 13,
-        "diameter": 55.881750236018306,
-        "stem_height": 55,
-        "scale": 1.424
-      },
-      "position": {
-        "x": -15.53,
-        "y": 0,
-        "z": 5.25
-      },
-      "rotation": {
-        "x": 0,
-        "y": 348.7308446822959,
-        "z": 0
-      }
-    },
-    {
-      "id": "27357416",
-      "pmid": "27357416",
-      "title": "Inter-trabecular bone formation: a specific mechanism for healing of cancellous bone.",
-      "authors": [
-        "Sandberg OH",
-        "Aspenberg P"
-      ],
-      "journal": "Acta orthopaedica",
-      "year": "2016",
-      "citations": 199,
-      "doi": "10.1080/17453674.2016.1205172",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 13,
-        "diameter": 55.26683994916471,
-        "stem_height": 54,
-        "scale": 1.396
-      },
-      "position": {
-        "x": -17.04,
-        "y": 0,
-        "z": 3.41
-      },
-      "rotation": {
-        "x": 0,
-        "y": 195.98101588619,
-        "z": 0
-      }
-    },
-    {
-      "id": "24477631",
-      "pmid": "24477631",
-      "title": "Alcohol and bone.",
-      "authors": [
-        "Mikosch P"
-      ],
-      "journal": "Wiener medizinische Wochenschrift (1946)",
-      "year": "2014",
-      "citations": 196,
-      "doi": "10.1007/s10354-013-0258-5",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 13,
-        "diameter": 55.0,
-        "stem_height": 54,
-        "scale": 1.384
-      },
-      "position": {
-        "x": -21.59,
-        "y": 0,
-        "z": 25.99
-      },
-      "rotation": {
-        "x": 0,
-        "y": 199.8503204433752,
-        "z": 0
-      }
-    },
-    {
-      "id": "31775592",
-      "pmid": "31775592",
-      "title": "Exosomes and Bone Disease.",
-      "authors": [
-        "Shan SK",
-        "Lin X",
-        "Li F",
-        "Xu F",
-        "Zhong JY"
-      ],
-      "journal": "Current pharmaceutical design",
-      "year": "2019",
-      "citations": 192,
-      "doi": "10.2174/1381612825666191127114054",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 12,
-        "diameter": 54.64101615137754,
-        "stem_height": 54,
-        "scale": 1.3679999999999999
-      },
-      "position": {
-        "x": -19.08,
-        "y": 0,
-        "z": 14.71
-      },
-      "rotation": {
-        "x": 0,
-        "y": 40.52028205789247,
-        "z": 0
-      }
-    },
-    {
-      "id": "28647885",
-      "pmid": "28647885",
-      "title": "Osteomacs and Bone Regeneration.",
-      "authors": [
-        "Batoon L",
-        "Millard SM",
-        "Raggatt LJ",
-        "Pettit AR"
-      ],
-      "journal": "Current osteoporosis reports",
-      "year": "2017",
-      "citations": 192,
-      "doi": "10.1007/s11914-017-0384-x",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 12,
-        "diameter": 54.64101615137754,
-        "stem_height": 54,
-        "scale": 1.3679999999999999
-      },
-      "position": {
-        "x": -24.71,
-        "y": 0,
-        "z": 10.64
-      },
-      "rotation": {
-        "x": 0,
-        "y": 297.77225279373073,
-        "z": 0
-      }
-    },
-    {
-      "id": "29589383",
-      "pmid": "29589383",
-      "title": "Bone Health in Adrenal Disorders.",
-      "authors": [
-        "Kim BJ",
-        "Lee SH",
-        "Koh JM"
-      ],
-      "journal": "Endocrinology and metabolism (Seoul, Korea)",
-      "year": "2018",
-      "citations": 192,
-      "doi": "10.3803/EnM.2018.33.1.1",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 12,
-        "diameter": 54.64101615137754,
-        "stem_height": 54,
-        "scale": 1.3679999999999999
-      },
-      "position": {
-        "x": -26.14,
-        "y": 0,
-        "z": 12.97
-      },
-      "rotation": {
-        "x": 0,
-        "y": 260.91268475376313,
-        "z": 0
-      }
-    },
-    {
-      "id": "37108257",
-      "pmid": "37108257",
-      "title": "The Role of Low-Level Laser Therapy in Bone Healing: Systematic Review.",
-      "authors": [
-        "Berni M",
-        "Brancato AM",
-        "Torriani C",
-        "Bina V",
-        "Annunziata S"
-      ],
-      "journal": "International journal of molecular sciences",
-      "year": "2023",
-      "citations": 122,
-      "doi": "10.3390/ijms24087094",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 8,
-        "diameter": 47.61340254296815,
-        "stem_height": 45,
-        "scale": 1.088
-      },
-      "position": {
-        "x": -25.52,
-        "y": 0,
-        "z": 6.64
-      },
-      "rotation": {
-        "x": 0,
-        "y": 182.50223058055445,
-        "z": 0
-      }
-    },
-    {
-      "id": "30328293",
-      "pmid": "30328293",
-      "title": "Current Advances in Immunomodulatory Biomaterials for Bone Regeneration.",
-      "authors": [
-        "Lee J",
-        "Byun H",
-        "Madhurakkat Perikamana SK",
-        "Lee S",
-        "Shin H"
-      ],
-      "journal": "Advanced healthcare materials",
-      "year": "2019",
-      "citations": 109,
-      "doi": "10.1002/adhm.201801106",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 7,
-        "diameter": 46.100766272276374,
-        "stem_height": 43,
-        "scale": 1.036
-      },
-      "position": {
-        "x": -33.05,
-        "y": 0,
-        "z": 12.3
-      },
-      "rotation": {
-        "x": 0,
-        "y": 5.505630117787881,
-        "z": 0
-      }
-    },
-    {
-      "id": "40799152",
-      "pmid": "40799152",
-      "title": "Research Progress on Biomaterials with Immunomodulatory Effects in Bone Regeneration.",
-      "authors": [
-        "Li J",
-        "Qu Y",
-        "Chu B",
-        "Wu T",
-        "Pan M"
-      ],
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "year": "2025",
-      "citations": 71,
-      "doi": "10.1002/advs.202501209",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 41.0653744329409,
-        "stem_height": 38,
-        "scale": 0.8839999999999999
-      },
-      "position": {
-        "x": -17.65,
-        "y": 0,
-        "z": 11.97
-      },
-      "rotation": {
-        "x": 0,
-        "y": 31.6237168027656,
-        "z": 0
-      }
-    },
-    {
-      "id": "40252757",
-      "pmid": "40252757",
-      "title": "Magnesium-based implants accelerate femoral fracture healing through promoting histone lactylation-mediated osteoclastogenesis inhibition.",
-      "authors": [
-        "Shen J",
-        "Pei Y",
-        "Bai S",
-        "Lei S",
-        "Xia S"
-      ],
-      "journal": "Life sciences",
-      "year": "2025",
-      "citations": 65,
-      "doi": "10.1016/j.lfs.2025.123639",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 40.15564437074637,
-        "stem_height": 38,
-        "scale": 0.86
-      },
-      "position": {
-        "x": -34.62,
-        "y": 0,
-        "z": 21.56
-      },
-      "rotation": {
-        "x": 0,
-        "y": 164.8222902504086,
-        "z": 0
-      }
-    },
-    {
-      "id": "38309695",
-      "pmid": "38309695",
-      "title": "Oral biosciences: The annual review 2023.",
-      "authors": [
-        "Ohshima H",
-        "Mishima K"
-      ],
-      "journal": "Journal of oral biosciences",
-      "year": "2024",
-      "citations": 44,
-      "doi": "10.1016/j.job.2024.01.011",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 36.583123951777,
-        "stem_height": 35,
-        "scale": 0.776
-      },
-      "position": {
-        "x": -29.37,
-        "y": 0,
-        "z": 11.78
-      },
-      "rotation": {
-        "x": 0,
-        "y": 70.54274032591871,
-        "z": 0
-      }
-    },
-    {
-      "id": "30008722",
-      "pmid": "30008722",
-      "title": "Interferon-Gamma-Mediated Osteoimmunology.",
-      "authors": [
-        "Tang M",
-        "Tian L",
-        "Luo G",
-        "Yu X"
-      ],
-      "journal": "Frontiers in immunology",
-      "year": "2018",
-      "citations": 42,
-      "doi": "10.3389/fimmu.2018.01508",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 36.20185174601965,
-        "stem_height": 35,
-        "scale": 0.768
-      },
-      "position": {
-        "x": -27.13,
-        "y": 0,
-        "z": 13.35
-      },
-      "rotation": {
-        "x": 0,
-        "y": 203.16074652033507,
-        "z": 0
-      }
-    },
-    {
-      "id": "40125794",
-      "pmid": "40125794",
-      "title": "Silicon Enhances Functional Mitochondrial Transfer to Improve Neurovascularization in Diabetic Bone Regeneration.",
-      "authors": [
-        "Ma YX",
-        "Lei C",
-        "Ye T",
-        "Wan QQ",
-        "Wang KY"
-      ],
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "year": "2025",
-      "citations": 34,
-      "doi": "10.1002/advs.202415459",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 34.57737973711325,
-        "stem_height": 34,
-        "scale": 0.736
-      },
-      "position": {
-        "x": -14.51,
-        "y": 0,
-        "z": 10.46
-      },
-      "rotation": {
-        "x": 0,
-        "y": 258.85743318728004,
-        "z": 0
-      }
-    },
-    {
-      "id": "38380490",
-      "pmid": "38380490",
-      "title": "High-Performance Hydrogel-Encapsulated Engineered Exosomes for Supporting Endoplasmic Reticulum Homeostasis and Boosting Diabetic Bone Regeneration.",
-      "authors": [
-        "Liu Y",
-        "Lin S",
-        "Xu Z",
-        "Wu Y",
-        "Wang G"
-      ],
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "year": "2024",
-      "citations": 30,
-      "doi": "10.1002/advs.202309491",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -25.8,
-        "y": 0,
-        "z": 10.75
-      },
-      "rotation": {
-        "x": 0,
-        "y": 284.7029747906363,
-        "z": 0
-      }
-    },
-    {
-      "id": "32569871",
-      "pmid": "32569871",
-      "title": "Wnt modulation in bone healing.",
-      "authors": [
-        "Schupbach D",
-        "Comeau-Gauthier M",
-        "Harvey E",
-        "Merle G"
-      ],
-      "journal": "Bone",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1016/j.bone.2020.115491",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -33.35,
-        "y": 0,
-        "z": 12.91
-      },
-      "rotation": {
-        "x": 0,
-        "y": 201.96625589193462,
-        "z": 0
-      }
-    },
-    {
-      "id": "35484948",
-      "pmid": "35484948",
-      "title": "Bone regeneration in rat using polycaprolactone/gelatin/epinephrine scaffold.",
-      "authors": [
-        "Ehterami A",
-        "Khastar H",
-        "Soleimannejad M",
-        "Salehi M",
-        "Nazarnezhad S"
-      ],
-      "journal": "Drug development and industrial pharmacy",
-      "year": "2021",
-      "citations": 30,
-      "doi": "10.1080/03639045.2022.2070640",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -23.68,
-        "y": 0,
-        "z": 7.1
-      },
-      "rotation": {
-        "x": 0,
-        "y": 99.39791851368196,
-        "z": 0
-      }
-    },
-    {
-      "id": "35119944",
-      "pmid": "35119944",
-      "title": "Waves in Embryonic Development.",
-      "authors": [
-        "Di Talia S",
-        "Vergassola M"
-      ],
-      "journal": "Annual review of biophysics",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.1146/annurev-biophys-111521-102500",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -28.81,
-        "y": 0,
-        "z": 16.32
-      },
-      "rotation": {
-        "x": 0,
-        "y": 76.1077314641592,
-        "z": 0
-      }
-    },
-    {
-      "id": "36202750",
-      "pmid": "36202750",
-      "title": "Nanozymes for Regenerative Medicine.",
-      "authors": [
-        "Mou X",
-        "Wu Q",
-        "Zhang Z",
-        "Liu Y",
-        "Zhang J"
-      ],
-      "journal": "Small methods",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.1002/smtd.202200997",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -19.99,
-        "y": 0,
-        "z": 18.88
-      },
-      "rotation": {
-        "x": 0,
-        "y": 162.53573721945622,
-        "z": 0
-      }
-    },
-    {
-      "id": "36976058",
-      "pmid": "36976058",
-      "title": "Biodegradable Cements for Bone Regeneration.",
-      "authors": [
-        "Liu D",
-        "Cui C",
-        "Chen W",
-        "Shi J",
-        "Li B"
-      ],
-      "journal": "Journal of functional biomaterials",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.3390/jfb14030134",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -31.9,
-        "y": 0,
-        "z": 12.35
-      },
-      "rotation": {
-        "x": 0,
-        "y": 74.65246884951235,
-        "z": 0
-      }
-    },
-    {
-      "id": "36521283",
-      "pmid": "36521283",
-      "title": "LIPUS accelerates bone regeneration via HDAC6-mediated ciliogenesis.",
-      "authors": [
-        "Xiao H",
-        "Yan A",
-        "Li M",
-        "Wang L",
-        "Xiang J"
-      ],
-      "journal": "Biochemical and biophysical research communications",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.1016/j.bbrc.2022.12.010",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -24.1,
-        "y": 0,
-        "z": 17.78
-      },
-      "rotation": {
-        "x": 0,
-        "y": 284.6556132122707,
-        "z": 0
-      }
-    },
-    {
-      "id": "34665454",
-      "pmid": "34665454",
-      "title": "Current Modalities for Fracture Healing Enhancement.",
-      "authors": [
-        "Chun YS",
-        "Lee DH",
-        "Won TG",
-        "Kim Y",
-        "Shetty AA"
-      ],
-      "journal": "Tissue engineering and regenerative medicine",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.1007/s13770-021-00399-0",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -26.67,
-        "y": 0,
-        "z": 12.29
-      },
-      "rotation": {
-        "x": 0,
-        "y": 153.25369827238794,
-        "z": 0
-      }
-    },
-    {
-      "id": "36416346",
-      "pmid": "36416346",
-      "title": "Carnosine and bone (Review).",
-      "authors": [
-        "Yang H",
-        "Hou X",
-        "Xing L",
-        "Tian F"
-      ],
-      "journal": "Molecular medicine reports",
-      "year": "2023",
-      "citations": 20,
-      "doi": "pii: 12. 10.3892/mmr.2022.12899",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -13.69,
-        "y": 0,
-        "z": 12.33
-      },
-      "rotation": {
-        "x": 0,
-        "y": 98.20442421427994,
-        "z": 0
-      }
-    },
-    {
-      "id": "37872163",
-      "pmid": "37872163",
-      "title": "HuR-mediated nucleocytoplasmic translocation of HOTAIR relieves its inhibition of osteogenic differentiation and promotes bone formation.",
-      "authors": [
-        "Li Y",
-        "Sun W",
-        "Li J",
-        "Du R",
-        "Xing W"
-      ],
-      "journal": "Bone research",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.1038/s41413-023-00289-2",
-      "abstract": "",
-      "category": "bone_regeneration",
-      "category_name": "骨再生与修复",
-      "flower_type": "rose",
-      "flower_color": "#FF6B6B",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -32.16,
-        "y": 0,
-        "z": 16.09
-      },
-      "rotation": {
-        "x": 0,
-        "y": 44.27587399595793,
-        "z": 0
-      }
-    },
-    {
-      "id": "29280666",
-      "pmid": "29280666",
-      "title": "[Bone metabolism in child and adolescent athletes: a systematic review].",
-      "authors": [
-        "Rapún López M",
-        "Olmedillas H",
-        "Pradas de la Fuente F",
-        "Gómez-Cabello A",
-        "González-Agüero A"
-      ],
-      "journal": "Nutricion hospitalaria",
-      "year": "2017",
-      "citations": 243,
-      "doi": "10.20960/nh.1109",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 16,
-        "diameter": 58.97114317029974,
-        "stem_height": 60,
-        "scale": 1.572
-      },
-      "position": {
-        "x": -21.78,
-        "y": 0,
-        "z": -21.0
-      },
-      "rotation": {
-        "x": 0,
-        "y": 12.262376528957727,
-        "z": 0
-      }
-    },
-    {
-      "id": "27356174",
-      "pmid": "27356174",
-      "title": "Effects of electromagnetic fields on osteoporosis: A systematic literature review.",
-      "authors": [
-        "Wang R",
-        "Wu H",
-        "Yang Y",
-        "Song M"
-      ],
-      "journal": "Electromagnetic biology and medicine",
-      "year": "2016",
-      "citations": 62,
-      "doi": "10.3109/15368378.2015.1107840",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 39.68501968502953,
-        "stem_height": 37,
-        "scale": 0.848
-      },
-      "position": {
-        "x": -26.92,
-        "y": 0,
-        "z": -17.41
-      },
-      "rotation": {
-        "x": 0,
-        "y": 57.55134087213653,
-        "z": 0
-      }
-    },
-    {
-      "id": "36967561",
-      "pmid": "36967561",
-      "title": "Regulating Type H Vessel Formation and Bone Metabolism via Bone-Targeting Oral Micro/Nano-Hydrogel Microspheres to Prevent Bone Loss.",
-      "authors": [
-        "Li J",
-        "Wei G",
-        "Liu G",
-        "Du Y",
-        "Zhang R"
-      ],
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "year": "2023",
-      "citations": 61,
-      "doi": "10.1002/advs.202207381",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 39.52562418976663,
-        "stem_height": 37,
-        "scale": 0.844
-      },
-      "position": {
-        "x": -35.26,
-        "y": 0,
-        "z": -13.53
-      },
-      "rotation": {
-        "x": 0,
-        "y": 223.00094699469727,
-        "z": 0
-      }
-    },
-    {
-      "id": "32586953",
-      "pmid": "32586953",
-      "title": "Osteoporosis: evidence for vitamin D and calcium in older people.",
-      "authors": [
-        "Reid IR"
-      ],
-      "journal": "Drug and therapeutics bulletin",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1136/dtb.2019.000063",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -31.48,
-        "y": 0,
-        "z": -11.55
-      },
-      "rotation": {
-        "x": 0,
-        "y": 101.9490866196179,
-        "z": 0
-      }
-    },
-    {
-      "id": "32081538",
-      "pmid": "32081538",
-      "title": "The relationship between bone marrow adipose tissue and bone metabolism in postmenopausal osteoporosis.",
-      "authors": [
-        "Li J",
-        "Chen X",
-        "Lu L",
-        "Yu X"
-      ],
-      "journal": "Cytokine & growth factor reviews",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1016/j.cytogfr.2020.02.003",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -20.77,
-        "y": 0,
-        "z": -4.09
-      },
-      "rotation": {
-        "x": 0,
-        "y": 349.01455699537416,
-        "z": 0
-      }
-    },
-    {
-      "id": "32149122",
-      "pmid": "32149122",
-      "title": "RANKL/RANK/OPG Pathway: A Mechanism Involved in Exercise-Induced Bone Remodeling.",
-      "authors": [
-        "Tobeiha M",
-        "Moghadasian MH",
-        "Amin N",
-        "Jafarnejad S"
-      ],
-      "journal": "BioMed research international",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1155/2020/6910312",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -27.67,
-        "y": 0,
-        "z": -0.43
-      },
-      "rotation": {
-        "x": 0,
-        "y": 91.55202899291712,
-        "z": 0
-      }
-    },
-    {
-      "id": "35459394",
-      "pmid": "35459394",
-      "title": "[Osteoporosis in premenopausal women].",
-      "authors": [
-        "Payer J",
-        "Smaha J",
-        "Kužma M",
-        "Killinger Z",
-        "Jackuliak P"
-      ],
-      "journal": "Vnitrni lekarstvi",
-      "year": "2021",
-      "citations": 30,
-      "doi": "",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
-      },
-      "position": {
-        "x": -32.03,
-        "y": 0,
-        "z": -22.19
-      },
-      "rotation": {
-        "x": 0,
-        "y": 145.34934589216624,
-        "z": 0
-      }
-    },
-    {
-      "id": "41081044",
-      "pmid": "41081044",
-      "title": "Osteocytes: master orchestrators of skeletal homeostasis, remodeling, and osteoporosis pathogenesis.",
-      "authors": [
-        "Wu Y",
-        "Gan D",
-        "Liu Z",
-        "Qiu D",
-        "Tan G"
-      ],
-      "journal": "Frontiers in cell and developmental biology",
-      "year": "2025",
-      "citations": 21,
-      "doi": "10.3389/fcell.2025.1670716",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.4564392373896,
-        "stem_height": 32,
-        "scale": 0.6839999999999999
-      },
-      "position": {
-        "x": -29.3,
-        "y": 0,
-        "z": -22.53
-      },
-      "rotation": {
-        "x": 0,
-        "y": 61.52344115089746,
-        "z": 0
-      }
-    },
-    {
-      "id": "36079777",
-      "pmid": "36079777",
-      "title": "Effects of Resveratrol, Curcumin and Quercetin Supplementation on Bone Metabolism-A Systematic Review.",
-      "authors": [
-        "Inchingolo AD",
-        "Inchingolo AM",
-        "Malcangi G",
-        "Avantario P",
-        "Azzollini D"
-      ],
-      "journal": "Nutrients",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.3390/nu14173519",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -37.88,
-        "y": 0,
-        "z": -18.45
-      },
-      "rotation": {
-        "x": 0,
-        "y": 219.82936674742746,
-        "z": 0
-      }
-    },
-    {
-      "id": "37893470",
-      "pmid": "37893470",
-      "title": "The RANK-RANKL-OPG System: A Multifaceted Regulator of Homeostasis, Immunity, and Cancer.",
-      "authors": [
-        "De Leon-Oliva D",
-        "Barrena-Blázquez S",
-        "Jiménez-Álvarez L",
-        "Fraile-Martinez O",
-        "García-Montero C"
-      ],
-      "journal": "Medicina (Kaunas, Lithuania)",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.3390/medicina59101752",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -18.86,
-        "y": 0,
-        "z": -22.75
-      },
-      "rotation": {
-        "x": 0,
-        "y": 319.8308104419086,
-        "z": 0
-      }
-    },
-    {
-      "id": "37674960",
-      "pmid": "37674960",
-      "title": "Osteoporosis: A Narrative Review.",
-      "authors": [
-        "Sheik Ali A"
-      ],
-      "journal": "Cureus",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.7759/cureus.43031",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -26.41,
-        "y": 0,
-        "z": -8.21
-      },
-      "rotation": {
-        "x": 0,
-        "y": 199.7440240702483,
-        "z": 0
-      }
-    },
-    {
-      "id": "35636175",
-      "pmid": "35636175",
-      "title": "Puerarin improves OVX-induced osteoporosis by regulating phospholipid metabolism and biosynthesis of unsaturated fatty acids based on serum metabolomics.",
-      "authors": [
-        "Li B",
-        "Wang Y",
-        "Gong S",
-        "Yao W",
-        "Gao H"
-      ],
-      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.1016/j.phymed.2022.154198",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -28.28,
-        "y": 0,
-        "z": -13.36
-      },
-      "rotation": {
-        "x": 0,
-        "y": 60.32120192168898,
-        "z": 0
-      }
-    },
-    {
-      "id": "37907083",
-      "pmid": "37907083",
-      "title": "Melatonin induces RAW264.7 cell apoptosis via the BMAL1/ROS/MAPK-p38 pathway to improve postmenopausal osteoporosis.",
-      "authors": [
-        "Wang X",
-        "Jiang W",
-        "Pan K",
-        "Tao L",
-        "Zhu Y"
-      ],
-      "journal": "Bone & joint research",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.1302/2046-3758.1211.BJR-2022-0425.R3",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -32.64,
-        "y": 0,
-        "z": -5.44
-      },
-      "rotation": {
-        "x": 0,
-        "y": 271.88284002925144,
-        "z": 0
-      }
-    },
-    {
-      "id": "36278157",
-      "pmid": "36278157",
-      "title": "The role of melatonin in the development of postmenopausal osteoporosis.",
-      "authors": [
-        "Yang K",
-        "Qiu X",
-        "Cao L",
-        "Qiu S"
-      ],
-      "journal": "Frontiers in pharmacology",
-      "year": "2022",
-      "citations": 20,
-      "doi": "10.3389/fphar.2022.975181",
-      "abstract": "",
-      "category": "bone_metabolism",
-      "category_name": "骨代谢与矿化",
-      "flower_type": "sunflower",
-      "flower_color": "#FFD93D",
-      "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
-      },
-      "position": {
-        "x": -21.15,
-        "y": 0,
-        "z": -19.79
-      },
-      "rotation": {
-        "x": 0,
-        "y": 233.27553710687576,
-        "z": 0
-      }
-    },
-    {
-      "id": "8329086",
-      "pmid": "8329086",
-      "title": "Dental implants: materials and design considerations.",
-      "authors": [
-        "Smith DC"
-      ],
-      "journal": "The International journal of prosthodontics",
-      "year": "1993",
-      "citations": 188,
-      "doi": "",
-      "abstract": "",
-      "category": "biomaterials",
-      "category_name": "生物材料",
-      "flower_type": "daisy",
-      "flower_color": "#6EE7B7",
-      "flower_props": {
-        "petal_count": 12,
-        "diameter": 54.27827300200522,
-        "stem_height": 53,
-        "scale": 1.3519999999999999
-      },
-      "position": {
-        "x": -8.0,
-        "y": 0,
-        "z": -37.89
-      },
-      "rotation": {
-        "x": 0,
-        "y": 37.81179998926174,
-        "z": 0
-      }
-    },
-    {
-      "id": "18094496",
-      "pmid": "18094496",
-      "title": "Bone tissue engineering.",
-      "authors": [
-        "Healy KE",
-        "Guldberg RE"
-      ],
-      "journal": "Journal of musculoskeletal & neuronal interactions",
-      "year": "2007",
-      "citations": 152,
-      "doi": "",
-      "abstract": "",
-      "category": "biomaterials",
-      "category_name": "生物材料",
-      "flower_type": "daisy",
-      "flower_color": "#6EE7B7",
-      "flower_props": {
-        "petal_count": 10,
-        "diameter": 50.82207001484488,
-        "stem_height": 49,
-        "scale": 1.208
-      },
-      "position": {
-        "x": 2.0,
-        "y": 0,
-        "z": -23.27
-      },
-      "rotation": {
-        "x": 0,
-        "y": 234.59235054711803,
+        "y": 184.44378151705277,
         "z": 0
       }
     },
@@ -3068,29 +337,29 @@
         "scale": 1.192
       },
       "position": {
-        "x": -16.0,
+        "x": 26.37,
         "y": 0,
-        "z": -23.02
+        "z": 3.86
       },
       "rotation": {
         "x": 0,
-        "y": 213.6957852925449,
+        "y": 277.3090909694307,
         "z": 0
       }
     },
     {
-      "id": "25136553",
-      "pmid": "25136553",
-      "title": "Bone tissue engineering and regeneration.",
+      "id": "14621311",
+      "pmid": "14621311",
+      "title": "New frontiers in bone tissue engineering.",
       "authors": [
-        "Levi B",
-        "Péault B",
-        "James AW"
+        "Calvert JW",
+        "Weiss LE",
+        "Sundine MJ"
       ],
-      "journal": "BioMed research international",
-      "year": "2014",
+      "journal": "Clinics in plastic surgery",
+      "year": "2003",
       "citations": 148,
-      "doi": "10.1155/2014/137529",
+      "doi": "",
       "abstract": "",
       "category": "biomaterials",
       "category_name": "生物材料",
@@ -3103,13 +372,13 @@
         "scale": 1.192
       },
       "position": {
-        "x": 5.68,
+        "x": 28.97,
         "y": 0,
-        "z": -33.06
+        "z": 2.71
       },
       "rotation": {
         "x": 0,
-        "y": 250.5352190905743,
+        "y": 264.6909436499912,
         "z": 0
       }
     },
@@ -3140,29 +409,30 @@
         "scale": 1.176
       },
       "position": {
-        "x": -11.1,
+        "x": 24.88,
         "y": 0,
-        "z": -35.05
+        "z": 5.13
       },
       "rotation": {
         "x": 0,
-        "y": 194.95546502431645,
+        "y": 279.59732072430495,
         "z": 0
       }
     },
     {
-      "id": "7489417",
-      "pmid": "7489417",
-      "title": "Bone tissue engineering.",
+      "id": "25434564",
+      "pmid": "25434564",
+      "title": "Peri-implant diseases: a review of treatment interventions.",
       "authors": [
-        "Crane GM",
-        "Ishaug SL",
-        "Mikos AG"
+        "Romanos GE",
+        "Javed F",
+        "Delgado-Ruiz RA",
+        "Calvo-Guirado JL"
       ],
-      "journal": "Nature medicine",
-      "year": "1995",
+      "journal": "Dental clinics of North America",
+      "year": "2015",
       "citations": 141,
-      "doi": "",
+      "doi": "10.1016/j.cden.2014.08.002",
       "abstract": "",
       "category": "biomaterials",
       "category_name": "生物材料",
@@ -3175,26 +445,65 @@
         "scale": 1.164
       },
       "position": {
-        "x": -15.39,
+        "x": 29.95,
         "y": 0,
-        "z": -31.57
+        "z": -3.39
       },
       "rotation": {
         "x": 0,
-        "y": 274.5302904194859,
+        "y": 356.70133925178993,
         "z": 0
       }
     },
     {
-      "id": "7648299",
-      "pmid": "7648299",
-      "title": "[Bone biomaterial].",
+      "id": "30110908",
+      "pmid": "30110908",
+      "title": "Osteogenic Potential of Graphene in Bone Tissue Engineering Scaffolds.",
       "authors": [
-        "Poitout DG"
+        "Prasadh S",
+        "Suresh S",
+        "Wong R"
       ],
-      "journal": "Bulletin de l'Academie nationale de medecine",
-      "year": "1995",
-      "citations": 90,
+      "journal": "Materials (Basel, Switzerland)",
+      "year": "2018",
+      "citations": 131,
+      "doi": "10.3390/ma11081430",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 8,
+        "diameter": 48.61380785564899,
+        "stem_height": 46,
+        "scale": 1.124
+      },
+      "position": {
+        "x": 35.13,
+        "y": 0,
+        "z": -0.3
+      },
+      "rotation": {
+        "x": 0,
+        "y": 348.27835000282676,
+        "z": 0
+      }
+    },
+    {
+      "id": "29600260",
+      "pmid": "29600260",
+      "title": "Current Concepts in Scaffolding for Bone Tissue Engineering.",
+      "authors": [
+        "Ghassemi T",
+        "Shahroodi A",
+        "Ebrahimzadeh MH",
+        "Mousavian A",
+        "Movaffagh J"
+      ],
+      "journal": "The archives of bone and joint surgery",
+      "year": "2018",
+      "citations": 122,
       "doi": "",
       "abstract": "",
       "category": "biomaterials",
@@ -3202,19 +511,19 @@
       "flower_type": "daisy",
       "flower_color": "#6EE7B7",
       "flower_props": {
-        "petal_count": 6,
-        "diameter": 43.71708245126285,
-        "stem_height": 41,
-        "scale": 0.96
+        "petal_count": 8,
+        "diameter": 47.61340254296815,
+        "stem_height": 45,
+        "scale": 1.088
       },
       "position": {
-        "x": -14.9,
+        "x": 20.49,
         "y": 0,
-        "z": -24.9
+        "z": -7.96
       },
       "rotation": {
         "x": 0,
-        "y": 80.17302148542065,
+        "y": 100.06081110035312,
         "z": 0
       }
     },
@@ -3241,13 +550,86 @@
         "scale": 0.9279999999999999
       },
       "position": {
-        "x": 0.53,
+        "x": 24.16,
         "y": 0,
-        "z": -27.01
+        "z": -0.57
       },
       "rotation": {
         "x": 0,
-        "y": 244.89183155569023,
+        "y": 78.68699070138683,
+        "z": 0
+      }
+    },
+    {
+      "id": "27516305",
+      "pmid": "27516305",
+      "title": "Collagen/chitosan porous bone tissue engineering composite scaffold incorporated with Ginseng compound K.",
+      "authors": [
+        "Muthukumar T",
+        "Aravinthan A",
+        "Sharmila J",
+        "Kim NS",
+        "Kim JH"
+      ],
+      "journal": "Carbohydrate polymers",
+      "year": "2016",
+      "citations": 70,
+      "doi": "10.1016/j.carbpol.2016.07.003",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 40.91650066335189,
+        "stem_height": 38,
+        "scale": 0.88
+      },
+      "position": {
+        "x": 27.66,
+        "y": 0,
+        "z": -12.26
+      },
+      "rotation": {
+        "x": 0,
+        "y": 118.52038888464948,
+        "z": 0
+      }
+    },
+    {
+      "id": "25967594",
+      "pmid": "25967594",
+      "title": "Growth factor-eluting technologies for bone tissue engineering.",
+      "authors": [
+        "Nyberg E",
+        "Holmes C",
+        "Witham T",
+        "Grayson WL"
+      ],
+      "journal": "Drug delivery and translational research",
+      "year": "2016",
+      "citations": 69,
+      "doi": "10.1007/s13346-015-0233-3",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 40.76655965729519,
+        "stem_height": 38,
+        "scale": 0.876
+      },
+      "position": {
+        "x": 25.43,
+        "y": 0,
+        "z": -7.74
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270.50119509494766,
         "z": 0
       }
     },
@@ -3278,13 +660,13 @@
         "scale": 0.8039999999999999
       },
       "position": {
-        "x": -8.82,
+        "x": 21.84,
         "y": 0,
-        "z": -34.02
+        "z": -9.82
       },
       "rotation": {
         "x": 0,
-        "y": 75.89212444297199,
+        "y": 186.4550631663179,
         "z": 0
       }
     },
@@ -3313,13 +695,13 @@
         "scale": 0.736
       },
       "position": {
-        "x": -17.06,
+        "x": 30.12,
         "y": 0,
-        "z": -22.55
+        "z": 0.69
       },
       "rotation": {
         "x": 0,
-        "y": 115.4233333123397,
+        "y": 156.23819805667654,
         "z": 0
       }
     },
@@ -3349,13 +731,13 @@
         "scale": 0.732
       },
       "position": {
-        "x": -14.28,
+        "x": 30.1,
         "y": 0,
-        "z": -35.39
+        "z": 3.17
       },
       "rotation": {
         "x": 0,
-        "y": 177.2013740867594,
+        "y": 188.60714737268992,
         "z": 0
       }
     },
@@ -3384,13 +766,50 @@
         "scale": 0.72
       },
       "position": {
-        "x": 5.79,
+        "x": 24.37,
         "y": 0,
-        "z": -22.01
+        "z": -4.49
       },
       "rotation": {
         "x": 0,
-        "y": 77.64561600975944,
+        "y": 353.7639878237404,
+        "z": 0
+      }
+    },
+    {
+      "id": "34739982",
+      "pmid": "34739982",
+      "title": "3D-bioprinted BMSC-laden biomimetic multiphasic scaffolds for efficient repair of osteochondral defects in an osteoarthritic rat model.",
+      "authors": [
+        "Liu Y",
+        "Peng L",
+        "Li L",
+        "Huang C",
+        "Shi K"
+      ],
+      "journal": "Biomaterials",
+      "year": "2021",
+      "citations": 30,
+      "doi": "10.1016/j.biomaterials.2021.121216",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": 24.88,
+        "y": 0,
+        "z": 10.22
+      },
+      "rotation": {
+        "x": 0,
+        "y": 253.8910162447317,
         "z": 0
       }
     },
@@ -3421,13 +840,121 @@
         "scale": 0.72
       },
       "position": {
-        "x": -2.85,
+        "x": 24.71,
         "y": 0,
-        "z": -29.77
+        "z": -6.21
       },
       "rotation": {
         "x": 0,
-        "y": 251.39583877839036,
+        "y": 291.060490544443,
+        "z": 0
+      }
+    },
+    {
+      "id": "34372891",
+      "pmid": "34372891",
+      "title": "Three-dimensional printed hydroxyapatite bone tissue engineering scaffold with antibacterial and osteogenic ability.",
+      "authors": [
+        "Zhongxing L",
+        "Shaohong W",
+        "Jinlong L",
+        "Limin Z",
+        "Yuanzheng W"
+      ],
+      "journal": "Journal of biological engineering",
+      "year": "2021",
+      "citations": 30,
+      "doi": "10.1186/s13036-021-00273-6",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": 23.66,
+        "y": 0,
+        "z": 7.42
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0.8880600672065908,
+        "z": 0
+      }
+    },
+    {
+      "id": "32812486",
+      "pmid": "32812486",
+      "title": "Nanomaterial-based scaffolds for bone tissue engineering and regeneration.",
+      "authors": [
+        "Ye G",
+        "Bao F",
+        "Zhang X",
+        "Song Z",
+        "Liao Y"
+      ],
+      "journal": "Nanomedicine (London, England)",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.2217/nnm-2020-0112",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": 35.4,
+        "y": 0,
+        "z": 7.8
+      },
+      "rotation": {
+        "x": 0,
+        "y": 250.28538703095998,
+        "z": 0
+      }
+    },
+    {
+      "id": "31882304",
+      "pmid": "31882304",
+      "title": "Natural Medicinal Compounds in Bone Tissue Engineering.",
+      "authors": [
+        "Bose S",
+        "Sarkar N"
+      ],
+      "journal": "Trends in biotechnology",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1016/j.tibtech.2019.11.005",
+      "abstract": "",
+      "category": "biomaterials",
+      "category_name": "生物材料",
+      "flower_type": "daisy",
+      "flower_color": "#6EE7B7",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": 30.16,
+        "y": 0,
+        "z": 0.29
+      },
+      "rotation": {
+        "x": 0,
+        "y": 287.28405301749376,
         "z": 0
       }
     },
@@ -3458,31 +985,31 @@
         "scale": 0.72
       },
       "position": {
-        "x": -15.57,
+        "x": 30.04,
         "y": 0,
-        "z": -32.96
+        "z": 0.12
       },
       "rotation": {
         "x": 0,
-        "y": 117.78656376231633,
+        "y": 212.1547312648139,
         "z": 0
       }
     },
     {
-      "id": "31754598",
-      "pmid": "31754598",
-      "title": "Polycaprolactone as biomaterial for bone scaffolds: Review of literature.",
+      "id": "31436374",
+      "pmid": "31436374",
+      "title": "Three-dimensional electrospun nanofibrous scaffolds for bone tissue engineering.",
       "authors": [
-        "Dwivedi R",
-        "Kumar S",
-        "Pandey R",
-        "Mahajan A",
-        "Nandana D"
+        "Lin W",
+        "Chen M",
+        "Qu T",
+        "Li J",
+        "Man Y"
       ],
-      "journal": "Journal of oral biology and craniofacial research",
+      "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
       "year": "2020",
       "citations": 30,
-      "doi": "10.1016/j.jobcr.2019.10.003",
+      "doi": "10.1002/jbm.b.34479",
       "abstract": "",
       "category": "biomaterials",
       "category_name": "生物材料",
@@ -3495,232 +1022,2716 @@
         "scale": 0.72
       },
       "position": {
-        "x": -8.06,
+        "x": 29.65,
         "y": 0,
-        "z": -31.5
+        "z": -10.97
       },
       "rotation": {
         "x": 0,
-        "y": 321.6290403280323,
+        "y": 14.873503680167808,
         "z": 0
       }
     },
     {
-      "id": "31754599",
-      "pmid": "31754599",
-      "title": "Poly hydroxyalkanoates (PHA): Role in bone scaffolds.",
+      "id": "22280094",
+      "pmid": "22280094",
+      "title": "Hurler disease bone marrow stromal cells exhibit altered ability to support osteoclast formation.",
       "authors": [
-        "Dwivedi R",
-        "Pandey R",
-        "Kumar S",
-        "Mehrotra D"
+        "Gatto F",
+        "Redaelli D",
+        "Salvadè A",
+        "Marzorati S",
+        "Sacchetti B"
       ],
-      "journal": "Journal of oral biology and craniofacial research",
-      "year": "2020",
-      "citations": 30,
-      "doi": "10.1016/j.jobcr.2019.10.004",
+      "journal": "Stem cells and development",
+      "year": "2012",
+      "citations": 481,
+      "doi": "10.1089/scd.2011.0555",
       "abstract": "",
-      "category": "biomaterials",
-      "category_name": "生物材料",
-      "flower_type": "daisy",
-      "flower_color": "#6EE7B7",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
       "flower_props": {
-        "petal_count": 5,
-        "diameter": 33.693063937629155,
-        "stem_height": 33,
-        "scale": 0.72
+        "petal_count": 20,
+        "diameter": 74.82928049865328,
+        "stem_height": 90,
+        "scale": 2.0
       },
       "position": {
-        "x": -7.36,
+        "x": 20.4,
         "y": 0,
-        "z": -22.61
+        "z": 37.49
       },
       "rotation": {
         "x": 0,
-        "y": 271.58878810201827,
+        "y": 75.79756901464124,
         "z": 0
       }
     },
     {
-      "id": "28993220",
-      "pmid": "28993220",
-      "title": "Silk fibroin/hydroxyapatite composites for bone tissue engineering.",
+      "id": "27803667",
+      "pmid": "27803667",
+      "title": "Wedelolactone Enhances Osteoblastogenesis but Inhibits Osteoclastogenesis through Sema3A/NRP1/PlexinA1 Pathway.",
       "authors": [
-        "Farokhi M",
-        "Mottaghitalab F",
-        "Samani S",
-        "Shokrgozar MA",
-        "Kundu SC"
+        "Liu YQ",
+        "Han XF",
+        "Bo JX",
+        "Ma HP"
       ],
-      "journal": "Biotechnology advances",
+      "journal": "Frontiers in pharmacology",
+      "year": "2016",
+      "citations": 235,
+      "doi": "",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 15,
+        "diameter": 58.32427429188973,
+        "stem_height": 59,
+        "scale": 1.54
+      },
+      "position": {
+        "x": 16.69,
+        "y": 0,
+        "z": 25.8
+      },
+      "rotation": {
+        "x": 0,
+        "y": 331.6598260383798,
+        "z": 0
+      }
+    },
+    {
+      "id": "24101233",
+      "pmid": "24101233",
+      "title": "Adipocytes and the regulation of bone remodeling: a balancing act.",
+      "authors": [
+        "Nuttall ME",
+        "Shah F",
+        "Singh V",
+        "Thomas-Porch C",
+        "Frazier T"
+      ],
+      "journal": "Calcified tissue international",
+      "year": "2014",
+      "citations": 184,
+      "doi": "10.1007/s00223-013-9807-6",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 12,
+        "diameter": 53.91164991562634,
+        "stem_height": 53,
+        "scale": 1.3359999999999999
+      },
+      "position": {
+        "x": 8.5,
+        "y": 0,
+        "z": 30.18
+      },
+      "rotation": {
+        "x": 0,
+        "y": 163.17663469143667,
+        "z": 0
+      }
+    },
+    {
+      "id": "25812731",
+      "pmid": "25812731",
+      "title": "Role of osteal macrophages in bone metabolism.",
+      "authors": [
+        "Cho SW"
+      ],
+      "journal": "Journal of pathology and translational medicine",
+      "year": "2015",
+      "citations": 179,
+      "doi": "10.4132/jptm.2015.02.02",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 11,
+        "diameter": 53.44772040064913,
+        "stem_height": 52,
+        "scale": 1.3159999999999998
+      },
+      "position": {
+        "x": 14.73,
+        "y": 0,
+        "z": 24.12
+      },
+      "rotation": {
+        "x": 0,
+        "y": 184.37687341792798,
+        "z": 0
+      }
+    },
+    {
+      "id": "26604945",
+      "pmid": "26604945",
+      "title": "Periodontitis and bone metabolism.",
+      "authors": [
+        "Barbato L",
+        "Francioni E",
+        "Bianchi M",
+        "Mascitelli E",
+        "Marco LB"
+      ],
+      "journal": "Clinical cases in mineral and bone metabolism : the official journal of the Italian Society of Osteoporosis, Mineral Metabolism, and Skeletal Diseases",
+      "year": "2015",
+      "citations": 170,
+      "doi": "10.11138/ccmbm/2015.12.2.174",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 11,
+        "diameter": 52.59601202601325,
+        "stem_height": 51,
+        "scale": 1.28
+      },
+      "position": {
+        "x": 17.82,
+        "y": 0,
+        "z": 13.85
+      },
+      "rotation": {
+        "x": 0,
+        "y": 227.8437898920149,
+        "z": 0
+      }
+    },
+    {
+      "id": "29637521",
+      "pmid": "29637521",
+      "title": "The obesity paradox and osteoporosis.",
+      "authors": [
+        "Fassio A",
+        "Idolazzi L",
+        "Rossini M",
+        "Gatti D",
+        "Adami G"
+      ],
+      "journal": "Eating and weight disorders : EWD",
       "year": "2018",
-      "citations": 25,
-      "doi": "10.1016/j.biotechadv.2017.10.001",
+      "citations": 148,
+      "doi": "10.1007/s40519-018-0505-2",
       "abstract": "",
-      "category": "biomaterials",
-      "category_name": "生物材料",
-      "flower_type": "daisy",
-      "flower_color": "#6EE7B7",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 50.4138126514911,
+        "stem_height": 48,
+        "scale": 1.192
+      },
+      "position": {
+        "x": 21.11,
+        "y": 0,
+        "z": 22.78
+      },
+      "rotation": {
+        "x": 0,
+        "y": 35.65531493815093,
+        "z": 0
+      }
+    },
+    {
+      "id": "19484205",
+      "pmid": "19484205",
+      "title": "Pathophysiology of osteoporosis.",
+      "authors": [
+        "Sipos W",
+        "Pietschmann P",
+        "Rauner M",
+        "Kerschan-Schindl K",
+        "Patsch J"
+      ],
+      "journal": "Wiener medizinische Wochenschrift (1946)",
+      "year": "2009",
+      "citations": 139,
+      "doi": "10.1007/s10354-009-0647-y",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 49.47456530637899,
+        "stem_height": 47,
+        "scale": 1.1560000000000001
+      },
+      "position": {
+        "x": 28.45,
+        "y": 0,
+        "z": 21.16
+      },
+      "rotation": {
+        "x": 0,
+        "y": 206.56016503476303,
+        "z": 0
+      }
+    },
+    {
+      "id": "26604941",
+      "pmid": "26604941",
+      "title": "Rare causes of osteoporosis.",
+      "authors": [
+        "Marcucci G",
+        "Brandi ML"
+      ],
+      "journal": "Clinical cases in mineral and bone metabolism : the official journal of the Italian Society of Osteoporosis, Mineral Metabolism, and Skeletal Diseases",
+      "year": "2015",
+      "citations": 130,
+      "doi": "10.11138/ccmbm/2015.12.2.151",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 8,
+        "diameter": 48.50438562747845,
+        "stem_height": 46,
+        "scale": 1.12
+      },
+      "position": {
+        "x": 25.71,
+        "y": 0,
+        "z": 23.92
+      },
+      "rotation": {
+        "x": 0,
+        "y": 165.36349539845725,
+        "z": 0
+      }
+    },
+    {
+      "id": "27356174",
+      "pmid": "27356174",
+      "title": "Effects of electromagnetic fields on osteoporosis: A systematic literature review.",
+      "authors": [
+        "Wang R",
+        "Wu H",
+        "Yang Y",
+        "Song M"
+      ],
+      "journal": "Electromagnetic biology and medicine",
+      "year": "2016",
+      "citations": 62,
+      "doi": "10.3109/15368378.2015.1107840",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
       "flower_props": {
         "petal_count": 5,
-        "diameter": 32.5,
+        "diameter": 39.68501968502953,
+        "stem_height": 37,
+        "scale": 0.848
+      },
+      "position": {
+        "x": 14.51,
+        "y": 0,
+        "z": 26.98
+      },
+      "rotation": {
+        "x": 0,
+        "y": 77.66298865152439,
+        "z": 0
+      }
+    },
+    {
+      "id": "41081044",
+      "pmid": "41081044",
+      "title": "Osteocytes: master orchestrators of skeletal homeostasis, remodeling, and osteoporosis pathogenesis.",
+      "authors": [
+        "Wu Y",
+        "Gan D",
+        "Liu Z",
+        "Qiu D",
+        "Tan G"
+      ],
+      "journal": "Frontiers in cell and developmental biology",
+      "year": "2025",
+      "citations": 32,
+      "doi": "10.3389/fcell.2025.1670716",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 34.14213562373095,
+        "stem_height": 34,
+        "scale": 0.728
+      },
+      "position": {
+        "x": 8.97,
+        "y": 0,
+        "z": 25.94
+      },
+      "rotation": {
+        "x": 0,
+        "y": 331.4587839439605,
+        "z": 0
+      }
+    },
+    {
+      "id": "32149122",
+      "pmid": "32149122",
+      "title": "RANKL/RANK/OPG Pathway: A Mechanism Involved in Exercise-Induced Bone Remodeling.",
+      "authors": [
+        "Tobeiha M",
+        "Moghadasian MH",
+        "Amin N",
+        "Jafarnejad S"
+      ],
+      "journal": "BioMed research international",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1155/2020/6910312",
+      "abstract": "",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
         "stem_height": 33,
-        "scale": 0.7
+        "scale": 0.72
       },
       "position": {
-        "x": -5.64,
+        "x": 25.2,
         "y": 0,
-        "z": -37.49
+        "z": 16.44
       },
       "rotation": {
         "x": 0,
-        "y": 87.60004967598879,
+        "y": 293.4539917611967,
         "z": 0
       }
     },
     {
-      "id": "37525300",
-      "pmid": "37525300",
-      "title": "The marriage of immunomodulatory, angiogenic, and osteogenic capabilities in a piezoelectric hydrogel tissue engineering scaffold for military medicine.",
+      "id": "32081538",
+      "pmid": "32081538",
+      "title": "The relationship between bone marrow adipose tissue and bone metabolism in postmenopausal osteoporosis.",
       "authors": [
-        "Wu P",
-        "Shen L",
-        "Liu HF",
-        "Zou XH",
-        "Zhao J"
+        "Li J",
+        "Chen X",
+        "Lu L",
+        "Yu X"
       ],
-      "journal": "Military Medical Research",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.1186/s40779-023-00469-5",
+      "journal": "Cytokine & growth factor reviews",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1016/j.cytogfr.2020.02.003",
       "abstract": "",
-      "category": "biomaterials",
-      "category_name": "生物材料",
-      "flower_type": "daisy",
-      "flower_color": "#6EE7B7",
+      "category": "bone_metabolism",
+      "category_name": "骨代谢与矿化",
+      "flower_type": "sunflower",
+      "flower_color": "#FFD93D",
       "flower_props": {
         "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
       },
       "position": {
-        "x": 0.06,
+        "x": 18.07,
         "y": 0,
-        "z": -34.05
+        "z": 28.14
       },
       "rotation": {
         "x": 0,
-        "y": 182.780165095308,
+        "y": 120.79773976801732,
         "z": 0
       }
     },
     {
-      "id": "35159677",
-      "pmid": "35159677",
-      "title": "Novel Nano-Engineered Biomaterials for Bone Tissue Engineering.",
+      "id": "24855508",
+      "pmid": "24855508",
+      "title": "Mesenchymal stem cells for treatment of myocardial infarction.",
       "authors": [
-        "Gulati K",
-        "Abdal-Hay A",
-        "Ivanovski S"
+        "Ko IK",
+        "Kim BS"
       ],
-      "journal": "Nanomaterials (Basel, Switzerland)",
+      "journal": "International journal of stem cells",
+      "year": "2008",
+      "citations": 333,
+      "doi": "",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 20,
+        "diameter": 65.62071897723665,
+        "stem_height": 71,
+        "scale": 1.932
+      },
+      "position": {
+        "x": -21.93,
+        "y": 0,
+        "z": 20.8
+      },
+      "rotation": {
+        "x": 0,
+        "y": 331.5664253574618,
+        "z": 0
+      }
+    },
+    {
+      "id": "17883946",
+      "pmid": "17883946",
+      "title": "Genistein stimulates osteoblastic differentiation via p38 MAPK-Cbfa1 pathway in bone marrow culture.",
+      "authors": [
+        "Liao QC",
+        "Xiao ZS",
+        "Qin YF",
+        "Zhou HH"
+      ],
+      "journal": "Acta pharmacologica Sinica",
+      "year": "2007",
+      "citations": 248,
+      "doi": "",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 16,
+        "diameter": 59.370039370059054,
+        "stem_height": 61,
+        "scale": 1.592
+      },
+      "position": {
+        "x": -15.89,
+        "y": 0,
+        "z": 14.52
+      },
+      "rotation": {
+        "x": 0,
+        "y": 124.49950759263379,
+        "z": 0
+      }
+    },
+    {
+      "id": "24703715",
+      "pmid": "24703715",
+      "title": "The effects of co-delivery of BMSC-affinity peptide and rhTGF-β1 from coaxial electrospun scaffolds on chondrogenic differentiation.",
+      "authors": [
+        "Man Z",
+        "Yin L",
+        "Shao Z",
+        "Zhang X",
+        "Hu X"
+      ],
+      "journal": "Biomaterials",
+      "year": "2014",
+      "citations": 168,
+      "doi": "10.1016/j.biomaterials.2014.03.031",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 11,
+        "diameter": 52.4037034920393,
+        "stem_height": 51,
+        "scale": 1.272
+      },
+      "position": {
+        "x": -15.48,
+        "y": 0,
+        "z": 26.38
+      },
+      "rotation": {
+        "x": 0,
+        "y": 2.6870159203461785,
+        "z": 0
+      }
+    },
+    {
+      "id": "29329642",
+      "pmid": "29329642",
+      "title": "Mesenchymal stem cell-macrophage crosstalk and bone healing.",
+      "authors": [
+        "Pajarinen J",
+        "Lin T",
+        "Gibon E",
+        "Kohno Y",
+        "Maruyama M"
+      ],
+      "journal": "Biomaterials",
+      "year": "2019",
+      "citations": 153,
+      "doi": "10.1016/j.biomaterials.2017.12.025",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 10,
+        "diameter": 50.92329219213245,
+        "stem_height": 49,
+        "scale": 1.212
+      },
+      "position": {
+        "x": -19.91,
+        "y": 0,
+        "z": 25.6
+      },
+      "rotation": {
+        "x": 0,
+        "y": 21.443877501956607,
+        "z": 0
+      }
+    },
+    {
+      "id": "33363169",
+      "pmid": "33363169",
+      "title": "BMSC-Derived Exosomal miR-29a Promotes Angiogenesis and Osteogenesis.",
+      "authors": [
+        "Lu GD",
+        "Cheng P",
+        "Liu T",
+        "Wang Z"
+      ],
+      "journal": "Frontiers in cell and developmental biology",
+      "year": "2020",
+      "citations": 153,
+      "doi": "10.3389/fcell.2020.608521",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 10,
+        "diameter": 50.92329219213245,
+        "stem_height": 49,
+        "scale": 1.212
+      },
+      "position": {
+        "x": -10.79,
+        "y": 0,
+        "z": 22.81
+      },
+      "rotation": {
+        "x": 0,
+        "y": 184.94250511472396,
+        "z": 0
+      }
+    },
+    {
+      "id": "28642327",
+      "pmid": "28642327",
+      "title": "Declining histone acetyltransferase GCN5 represses BMSC-mediated angiogenesis during osteoporosis.",
+      "authors": [
+        "Jing H",
+        "Liao L",
+        "Su X",
+        "Shuai Y",
+        "Zhang X"
+      ],
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "year": "2017",
+      "citations": 145,
+      "doi": "10.1096/fj.201700118R",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 50.10398644698074,
+        "stem_height": 48,
+        "scale": 1.18
+      },
+      "position": {
+        "x": -15.99,
+        "y": 0,
+        "z": 25.89
+      },
+      "rotation": {
+        "x": 0,
+        "y": 107.67157203566993,
+        "z": 0
+      }
+    },
+    {
+      "id": "37047377",
+      "pmid": "37047377",
+      "title": "Knee Osteoarthritis: Epidemiology, Pathogenesis, and Mesenchymal Stem Cells: What Else Is New? An Update.",
+      "authors": [
+        "Giorgino R",
+        "Albano D",
+        "Fusco S",
+        "Peretti GM",
+        "Mangiavini L"
+      ],
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "citations": 123,
+      "doi": "10.3390/ijms24076405",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 8,
+        "diameter": 47.726341266023546,
+        "stem_height": 45,
+        "scale": 1.092
+      },
+      "position": {
+        "x": -21.6,
+        "y": 0,
+        "z": 25.17
+      },
+      "rotation": {
+        "x": 0,
+        "y": 16.604519822905303,
+        "z": 0
+      }
+    },
+    {
+      "id": "33884524",
+      "pmid": "33884524",
+      "title": "LLLI promotes BMSC proliferation through circRNA_0001052/miR-124-3p.",
+      "authors": [
+        "Liu N",
+        "Lu W",
+        "Qu X",
+        "Zhu C"
+      ],
+      "journal": "Lasers in medical science",
       "year": "2022",
-      "citations": 20,
-      "doi": "10.3390/nano12030333",
+      "citations": 114,
+      "doi": "10.1007/s10103-021-03322-0",
       "abstract": "",
-      "category": "biomaterials",
-      "category_name": "生物材料",
-      "flower_type": "daisy",
-      "flower_color": "#6EE7B7",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
       "flower_props": {
-        "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
+        "petal_count": 7,
+        "diameter": 46.692695630078276,
+        "stem_height": 44,
+        "scale": 1.056
       },
       "position": {
-        "x": -10.62,
+        "x": -21.06,
         "y": 0,
-        "z": -26.94
+        "z": 29.26
       },
       "rotation": {
         "x": 0,
-        "y": 242.01363962077065,
+        "y": 286.3417583886621,
         "z": 0
       }
     },
     {
-      "id": "36909661",
-      "pmid": "36909661",
-      "title": "3D printing method for bone tissue engineering scaffold.",
+      "id": "29844536",
+      "pmid": "29844536",
+      "title": "Injectable cartilaginous template transformed BMSCs into vascularized bone.",
       "authors": [
-        "Zhang Q",
-        "Zhou J",
-        "Zhi P",
-        "Liu L",
-        "Liu C"
+        "Feng X",
+        "Li Z",
+        "Wei J",
+        "Feng Z",
+        "Wu W"
       ],
-      "journal": "Medicine in novel technology and devices",
-      "year": "2023",
-      "citations": 20,
-      "doi": "10.1016/j.medntd.2022.100205",
+      "journal": "Scientific reports",
+      "year": "2018",
+      "citations": 87,
+      "doi": "10.1038/s41598-018-26472-8",
       "abstract": "",
-      "category": "biomaterials",
-      "category_name": "生物材料",
-      "flower_type": "daisy",
-      "flower_color": "#6EE7B7",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
       "flower_props": {
         "petal_count": 5,
-        "diameter": 31.18033988749895,
-        "stem_height": 32,
-        "scale": 0.6799999999999999
+        "diameter": 43.31844763272204,
+        "stem_height": 40,
+        "scale": 0.948
       },
       "position": {
-        "x": -9.16,
+        "x": -1.6,
         "y": 0,
-        "z": -28.62
+        "z": 26.15
       },
       "rotation": {
         "x": 0,
-        "y": 298.9976187827705,
+        "y": 246.4586885465346,
         "z": 0
       }
     },
     {
-      "id": "37528254",
-      "pmid": "37528254",
-      "title": "MSC-Derived Exosomes Ameliorate Intervertebral Disc Degeneration By Regulating the Keap1/Nrf2 Axis.",
+      "id": "28623357",
+      "pmid": "28623357",
+      "title": "Adiponectin regulates BMSC osteogenic differentiation and osteogenesis through the Wnt/β-catenin pathway.",
       "authors": [
-        "Xu G",
-        "Lu X",
-        "Liu S",
-        "Zhang Y",
-        "Xu S"
+        "Wang Y",
+        "Zhang X",
+        "Shao J",
+        "Liu H",
+        "Liu X"
       ],
-      "journal": "Stem cell reviews and reports",
-      "year": "2023",
-      "citations": 48,
-      "doi": "10.1007/s12015-023-10570-w",
+      "journal": "Scientific reports",
+      "year": "2017",
+      "citations": 67,
+      "doi": "10.1038/s41598-017-03899-z",
       "abstract": "",
-      "category": "spine",
-      "category_name": "脊柱与椎间盘",
-      "flower_type": "lavender",
-      "flower_color": "#A78BFA",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
       "flower_props": {
         "petal_count": 5,
-        "diameter": 37.32050807568877,
+        "diameter": 40.46338192968113,
+        "stem_height": 38,
+        "scale": 0.868
+      },
+      "position": {
+        "x": -17.16,
+        "y": 0,
+        "z": 35.93
+      },
+      "rotation": {
+        "x": 0,
+        "y": 343.99277301643605,
+        "z": 0
+      }
+    },
+    {
+      "id": "32586355",
+      "pmid": "32586355",
+      "title": "Mitochondria transfer enhances proliferation, migration, and osteogenic differentiation of bone marrow mesenchymal stem cell and promotes bone defect healing.",
+      "authors": [
+        "Guo Y",
+        "Chi X",
+        "Wang Y",
+        "Heng BC",
+        "Wei Y"
+      ],
+      "journal": "Stem cell research & therapy",
+      "year": "2020",
+      "citations": 59,
+      "doi": "10.1186/s13287-020-01704-9",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 39.202864369671516,
+        "stem_height": 37,
+        "scale": 0.836
+      },
+      "position": {
+        "x": -26.41,
+        "y": 0,
+        "z": 16.45
+      },
+      "rotation": {
+        "x": 0,
+        "y": 60.6361937408281,
+        "z": 0
+      }
+    },
+    {
+      "id": "34659106",
+      "pmid": "34659106",
+      "title": "BMSC-Derived Exosomes Inhibit Dexamethasone-Induced Muscle Atrophy via the miR-486-5p/FoxO1 Axis.",
+      "authors": [
+        "Li Z",
+        "Liu C",
+        "Li S",
+        "Li T",
+        "Li Y"
+      ],
+      "journal": "Frontiers in endocrinology",
+      "year": "2021",
+      "citations": 30,
+      "doi": "10.3389/fendo.2021.681267",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": -12.08,
+        "y": 0,
+        "z": 22.78
+      },
+      "rotation": {
+        "x": 0,
+        "y": 9.951706874298537,
+        "z": 0
+      }
+    },
+    {
+      "id": "33915488",
+      "pmid": "33915488",
+      "title": "Mesenchymal stem cells-derived extracellular vesicles carrying microRNA-17 inhibits macrophage apoptosis in lipopolysaccharide-induced sepsis.",
+      "authors": [
+        "Su Y",
+        "Song X",
+        "Teng J",
+        "Zhou X",
+        "Dong Z"
+      ],
+      "journal": "International immunopharmacology",
+      "year": "2021",
+      "citations": 30,
+      "doi": "10.1016/j.intimp.2021.107408",
+      "abstract": "",
+      "category": "stem_cells",
+      "category_name": "干细胞研究",
+      "flower_type": "lotus",
+      "flower_color": "#F9A8D4",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": -11.26,
+        "y": 0,
+        "z": 11.77
+      },
+      "rotation": {
+        "x": 0,
+        "y": 349.0623976440159,
+        "z": 0
+      }
+    },
+    {
+      "id": "21252473",
+      "pmid": "21252473",
+      "title": "Sox9 expression during fracture repair.",
+      "authors": [
+        "Shintaku Y",
+        "Murakami T",
+        "Yanagita T",
+        "Kawanabe N",
+        "Fukunaga T"
+      ],
+      "journal": "Cells, tissues, organs",
+      "year": "2011",
+      "citations": 257,
+      "doi": "10.1159/000322557",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 17,
+        "diameter": 60.078048854703496,
+        "stem_height": 62,
+        "scale": 1.6280000000000001
+      },
+      "position": {
+        "x": -30.1,
+        "y": 0,
+        "z": 0.04
+      },
+      "rotation": {
+        "x": 0,
+        "y": 255.40952927996344,
+        "z": 0
+      }
+    },
+    {
+      "id": "24477631",
+      "pmid": "24477631",
+      "title": "Alcohol and bone.",
+      "authors": [
+        "Mikosch P"
+      ],
+      "journal": "Wiener medizinische Wochenschrift (1946)",
+      "year": "2014",
+      "citations": 196,
+      "doi": "10.1007/s10354-013-0258-5",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 13,
+        "diameter": 55.0,
+        "stem_height": 54,
+        "scale": 1.384
+      },
+      "position": {
+        "x": -28.94,
+        "y": 0,
+        "z": -2.74
+      },
+      "rotation": {
+        "x": 0,
+        "y": 341.80282033754975,
+        "z": 0
+      }
+    },
+    {
+      "id": "31775592",
+      "pmid": "31775592",
+      "title": "Exosomes and Bone Disease.",
+      "authors": [
+        "Shan SK",
+        "Lin X",
+        "Li F",
+        "Xu F",
+        "Zhong JY"
+      ],
+      "journal": "Current pharmaceutical design",
+      "year": "2019",
+      "citations": 192,
+      "doi": "10.2174/1381612825666191127114054",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 12,
+        "diameter": 54.64101615137754,
+        "stem_height": 54,
+        "scale": 1.3679999999999999
+      },
+      "position": {
+        "x": -18.94,
+        "y": 0,
+        "z": 9.55
+      },
+      "rotation": {
+        "x": 0,
+        "y": 262.0903682734443,
+        "z": 0
+      }
+    },
+    {
+      "id": "29589383",
+      "pmid": "29589383",
+      "title": "Bone Health in Adrenal Disorders.",
+      "authors": [
+        "Kim BJ",
+        "Lee SH",
+        "Koh JM"
+      ],
+      "journal": "Endocrinology and metabolism (Seoul, Korea)",
+      "year": "2018",
+      "citations": 192,
+      "doi": "10.3803/EnM.2018.33.1.1",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 12,
+        "diameter": 54.64101615137754,
+        "stem_height": 54,
+        "scale": 1.3679999999999999
+      },
+      "position": {
+        "x": -40.36,
+        "y": 0,
+        "z": -3.22
+      },
+      "rotation": {
+        "x": 0,
+        "y": 2.576068703404095,
+        "z": 0
+      }
+    },
+    {
+      "id": "23668401",
+      "pmid": "23668401",
+      "title": "Alendronate sodium.",
+      "authors": [
+        "Ananchenko G",
+        "Novakovic J",
+        "Tikhomirova A"
+      ],
+      "journal": "Profiles of drug substances, excipients, and related methodology",
+      "year": "2013",
+      "citations": 174,
+      "doi": "10.1016/B978-0-12-407691-4.00001-0",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 11,
+        "diameter": 52.977264895682296,
+        "stem_height": 51,
+        "scale": 1.2959999999999998
+      },
+      "position": {
+        "x": -28.35,
+        "y": 0,
+        "z": -3.67
+      },
+      "rotation": {
+        "x": 0,
+        "y": 186.33268472063497,
+        "z": 0
+      }
+    },
+    {
+      "id": "30047029",
+      "pmid": "30047029",
+      "title": "Current advances for bone regeneration based on tissue engineering strategies.",
+      "authors": [
+        "Shi R",
+        "Huang Y",
+        "Ma C",
+        "Wu C",
+        "Tian W"
+      ],
+      "journal": "Frontiers of medicine",
+      "year": "2019",
+      "citations": 171,
+      "doi": "10.1007/s11684-018-0629-9",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 11,
+        "diameter": 52.69174207655505,
+        "stem_height": 51,
+        "scale": 1.284
+      },
+      "position": {
+        "x": -20.35,
+        "y": 0,
+        "z": 11.02
+      },
+      "rotation": {
+        "x": 0,
+        "y": 169.22338824614127,
+        "z": 0
+      }
+    },
+    {
+      "id": "29926970",
+      "pmid": "29926970",
+      "title": "Parathyroid hormone for bone regeneration.",
+      "authors": [
+        "Wojda SJ",
+        "Donahue SW"
+      ],
+      "journal": "Journal of orthopaedic research : official publication of the Orthopaedic Research Society",
+      "year": "2018",
+      "citations": 148,
+      "doi": "10.1002/jor.24075",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 50.4138126514911,
+        "stem_height": 48,
+        "scale": 1.192
+      },
+      "position": {
+        "x": -29.54,
+        "y": 0,
+        "z": 1.16
+      },
+      "rotation": {
+        "x": 0,
+        "y": 359.6034461653662,
+        "z": 0
+      }
+    },
+    {
+      "id": "29407177",
+      "pmid": "29407177",
+      "title": "The roles of ions on bone regeneration.",
+      "authors": [
+        "O'Neill E",
+        "Awale G",
+        "Daneshmandi L",
+        "Umerah O",
+        "Lo KW"
+      ],
+      "journal": "Drug discovery today",
+      "year": "2018",
+      "citations": 148,
+      "doi": "10.1016/j.drudis.2018.01.049",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 50.4138126514911,
+        "stem_height": 48,
+        "scale": 1.192
+      },
+      "position": {
+        "x": -35.02,
+        "y": 0,
+        "z": -11.53
+      },
+      "rotation": {
+        "x": 0,
+        "y": 154.31921599684108,
+        "z": 0
+      }
+    },
+    {
+      "id": "29143915",
+      "pmid": "29143915",
+      "title": "Effects of Aging on Fracture Healing.",
+      "authors": [
+        "Clark D",
+        "Nakamura M",
+        "Miclau T",
+        "Marcucio R"
+      ],
+      "journal": "Current osteoporosis reports",
+      "year": "2017",
+      "citations": 117,
+      "doi": "10.1007/s11914-017-0413-9",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 7,
+        "diameter": 47.04163456597992,
+        "stem_height": 44,
+        "scale": 1.068
+      },
+      "position": {
+        "x": -40.65,
+        "y": 0,
+        "z": 0.58
+      },
+      "rotation": {
+        "x": 0,
+        "y": 181.65127626002896,
+        "z": 0
+      }
+    },
+    {
+      "id": "33615702",
+      "pmid": "33615702",
+      "title": "Biomaterial Properties Modulating Bone Regeneration.",
+      "authors": [
+        "Zhu Y",
+        "Goh C",
+        "Shrestha A"
+      ],
+      "journal": "Macromolecular bioscience",
+      "year": "2021",
+      "citations": 115,
+      "doi": "10.1002/mabi.202000365",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 7,
+        "diameter": 46.80951323690902,
+        "stem_height": 44,
+        "scale": 1.06
+      },
+      "position": {
+        "x": -26.2,
+        "y": 0,
+        "z": -9.49
+      },
+      "rotation": {
+        "x": 0,
+        "y": 297.21523395246646,
+        "z": 0
+      }
+    },
+    {
+      "id": "29794560",
+      "pmid": "29794560",
+      "title": "Genetic effects on bone health.",
+      "authors": [
+        "Lovšin N",
+        "Zupan J",
+        "Marc J"
+      ],
+      "journal": "Current opinion in clinical nutrition and metabolic care",
+      "year": "2018",
+      "citations": 108,
+      "doi": "10.1097/MCO.0000000000000482",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 7,
+        "diameter": 45.98076211353316,
+        "stem_height": 43,
+        "scale": 1.032
+      },
+      "position": {
+        "x": -32.08,
+        "y": 0,
+        "z": 12.74
+      },
+      "rotation": {
+        "x": 0,
+        "y": 142.8654166383257,
+        "z": 0
+      }
+    },
+    {
+      "id": "34740382",
+      "pmid": "34740382",
+      "title": "Parkinson's in the bone.",
+      "authors": [
+        "Xiong L",
+        "Pan JX",
+        "Guo HH",
+        "Mei L",
+        "Xiong WC"
+      ],
+      "journal": "Cell & bioscience",
+      "year": "2021",
+      "citations": 106,
+      "doi": "10.1186/s13578-021-00702-5",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 7,
+        "diameter": 45.7390753524675,
+        "stem_height": 43,
+        "scale": 1.024
+      },
+      "position": {
+        "x": -23.74,
+        "y": 0,
+        "z": 12.41
+      },
+      "rotation": {
+        "x": 0,
+        "y": 2.5115482563047786,
+        "z": 0
+      }
+    },
+    {
+      "id": "30129875",
+      "pmid": "30129875",
+      "title": "The Bidirectional Interactions Between Inflammation and Coagulation in Fracture Hematoma.",
+      "authors": [
+        "Ma Y",
+        "Zhou Y",
+        "Wu F",
+        "Ji W",
+        "Zhang J"
+      ],
+      "journal": "Tissue engineering. Part B, Reviews",
+      "year": "2019",
+      "citations": 105,
+      "doi": "10.1089/ten.TEB.2018.0157",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 7,
+        "diameter": 45.617376914899,
+        "stem_height": 43,
+        "scale": 1.02
+      },
+      "position": {
+        "x": -37.14,
+        "y": 0,
+        "z": -7.86
+      },
+      "rotation": {
+        "x": 0,
+        "y": 211.83930709083836,
+        "z": 0
+      }
+    },
+    {
+      "id": "30283334",
+      "pmid": "30283334",
+      "title": "Bone Health and Natural Products- An Insight.",
+      "authors": [
+        "Suvarna V",
+        "Sarkar M",
+        "Chaubey P",
+        "Khan T",
+        "Sherje A"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "year": "2018",
+      "citations": 104,
+      "doi": "10.3389/fphar.2018.00981",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 6,
+        "diameter": 45.495097567963924,
+        "stem_height": 43,
+        "scale": 1.016
+      },
+      "position": {
+        "x": -39.75,
+        "y": 0,
+        "z": 7.71
+      },
+      "rotation": {
+        "x": 0,
+        "y": 320.5502874276999,
+        "z": 0
+      }
+    },
+    {
+      "id": "19962149",
+      "pmid": "19962149",
+      "title": "Directing bone marrow-derived stromal cell function with mechanics.",
+      "authors": [
+        "Potier E",
+        "Noailly J",
+        "Ito K"
+      ],
+      "journal": "Journal of biomechanics",
+      "year": "2010",
+      "citations": 100,
+      "doi": "10.1016/j.jbiomech.2009.11.019",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 6,
+        "diameter": 45.0,
+        "stem_height": 42,
+        "scale": 1.0
+      },
+      "position": {
+        "x": -29.67,
+        "y": 0,
+        "z": 0.91
+      },
+      "rotation": {
+        "x": 0,
+        "y": 136.18238612106526,
+        "z": 0
+      }
+    },
+    {
+      "id": "33877804",
+      "pmid": "33877804",
+      "title": "Simvastatin-Incorporated Drug Delivery Systems for Bone Regeneration.",
+      "authors": [
+        "Jin H",
+        "Ji Y",
+        "Cui Y",
+        "Xu L",
+        "Liu H"
+      ],
+      "journal": "ACS biomaterials science & engineering",
+      "year": "2021",
+      "citations": 99,
+      "doi": "10.1021/acsbiomaterials.1c00462",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 6,
+        "diameter": 44.874685927665496,
+        "stem_height": 42,
+        "scale": 0.996
+      },
+      "position": {
+        "x": -26.59,
+        "y": 0,
+        "z": 1.04
+      },
+      "rotation": {
+        "x": 0,
+        "y": 43.928237524567386,
+        "z": 0
+      }
+    },
+    {
+      "id": "32157482",
+      "pmid": "32157482",
+      "title": "Glucocorticoid-induced autophagy and apoptosis in bone.",
+      "authors": [
+        "Wang T",
+        "Liu X",
+        "He C"
+      ],
+      "journal": "Apoptosis : an international journal on programmed cell death",
+      "year": "2020",
+      "citations": 91,
+      "doi": "10.1007/s10495-020-01599-0",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 6,
+        "diameter": 43.84848003542364,
+        "stem_height": 41,
+        "scale": 0.964
+      },
+      "position": {
+        "x": -25.27,
+        "y": 0,
+        "z": 5.51
+      },
+      "rotation": {
+        "x": 0,
+        "y": 277.2622068939884,
+        "z": 0
+      }
+    },
+    {
+      "id": "40799152",
+      "pmid": "40799152",
+      "title": "Research Progress on Biomaterials with Immunomodulatory Effects in Bone Regeneration.",
+      "authors": [
+        "Li J",
+        "Qu Y",
+        "Chu B",
+        "Wu T",
+        "Pan M"
+      ],
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "year": "2025",
+      "citations": 70,
+      "doi": "10.1002/advs.202501209",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 40.91650066335189,
+        "stem_height": 38,
+        "scale": 0.88
+      },
+      "position": {
+        "x": -41.93,
+        "y": 0,
+        "z": -0.52
+      },
+      "rotation": {
+        "x": 0,
+        "y": 64.25774484432627,
+        "z": 0
+      }
+    },
+    {
+      "id": "40125794",
+      "pmid": "40125794",
+      "title": "Silicon Enhances Functional Mitochondrial Transfer to Improve Neurovascularization in Diabetic Bone Regeneration.",
+      "authors": [
+        "Ma YX",
+        "Lei C",
+        "Ye T",
+        "Wan QQ",
+        "Wang KY"
+      ],
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "year": "2025",
+      "citations": 67,
+      "doi": "10.1002/advs.202415459",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 40.46338192968113,
+        "stem_height": 38,
+        "scale": 0.868
+      },
+      "position": {
+        "x": -31.45,
+        "y": 0,
+        "z": 0.47
+      },
+      "rotation": {
+        "x": 0,
+        "y": 153.31051246672294,
+        "z": 0
+      }
+    },
+    {
+      "id": "26608518",
+      "pmid": "26608518",
+      "title": "Tissue engineering strategies for promoting vascularized bone regeneration.",
+      "authors": [
+        "Almubarak S",
+        "Nethercott H",
+        "Freeberg M",
+        "Beaudon C",
+        "Jha A"
+      ],
+      "journal": "Bone",
+      "year": "2016",
+      "citations": 65,
+      "doi": "10.1016/j.bone.2015.11.011",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 40.15564437074637,
+        "stem_height": 38,
+        "scale": 0.86
+      },
+      "position": {
+        "x": -31.99,
+        "y": 0,
+        "z": 5.85
+      },
+      "rotation": {
+        "x": 0,
+        "y": 301.5908306895949,
+        "z": 0
+      }
+    },
+    {
+      "id": "37108257",
+      "pmid": "37108257",
+      "title": "The Role of Low-Level Laser Therapy in Bone Healing: Systematic Review.",
+      "authors": [
+        "Berni M",
+        "Brancato AM",
+        "Torriani C",
+        "Bina V",
+        "Annunziata S"
+      ],
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "citations": 52,
+      "doi": "10.3390/ijms24087094",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 38.027756377319946,
         "stem_height": 36,
-        "scale": 0.792
+        "scale": 0.8079999999999999
       },
       "position": {
-        "x": 26.2,
+        "x": -31.77,
         "y": 0,
-        "z": -35.78
+        "z": 0.63
       },
       "rotation": {
         "x": 0,
-        "y": 136.24498174343762,
+        "y": 99.20274283660612,
+        "z": 0
+      }
+    },
+    {
+      "id": "30219967",
+      "pmid": "30219967",
+      "title": "Bone morphogenetic proteins in fracture repair.",
+      "authors": [
+        "Dumic-Cule I",
+        "Peric M",
+        "Kucko L",
+        "Grgurevic L",
+        "Pecina M"
+      ],
+      "journal": "International orthopaedics",
+      "year": "2018",
+      "citations": 51,
+      "doi": "10.1007/s00264-018-4153-y",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 37.85357107135712,
+        "stem_height": 36,
+        "scale": 0.8039999999999999
+      },
+      "position": {
+        "x": -28.83,
+        "y": 0,
+        "z": -2.15
+      },
+      "rotation": {
+        "x": 0,
+        "y": 185.00465053566919,
+        "z": 0
+      }
+    },
+    {
+      "id": "30008722",
+      "pmid": "30008722",
+      "title": "Interferon-Gamma-Mediated Osteoimmunology.",
+      "authors": [
+        "Tang M",
+        "Tian L",
+        "Luo G",
+        "Yu X"
+      ],
+      "journal": "Frontiers in immunology",
+      "year": "2018",
+      "citations": 42,
+      "doi": "10.3389/fimmu.2018.01508",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 36.20185174601965,
+        "stem_height": 35,
+        "scale": 0.768
+      },
+      "position": {
+        "x": -26.66,
+        "y": 0,
+        "z": 3.77
+      },
+      "rotation": {
+        "x": 0,
+        "y": 98.10843452875781,
+        "z": 0
+      }
+    },
+    {
+      "id": "17387638",
+      "pmid": "17387638",
+      "title": "General principles.",
+      "authors": [
+        "Macmahon P",
+        "Eustace SJ"
+      ],
+      "journal": "Seminars in musculoskeletal radiology",
+      "year": "2006",
+      "citations": 37,
+      "doi": "",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 35.20690632574555,
+        "stem_height": 34,
+        "scale": 0.748
+      },
+      "position": {
+        "x": -27.52,
+        "y": 0,
+        "z": -2.85
+      },
+      "rotation": {
+        "x": 0,
+        "y": 147.39860377340412,
+        "z": 0
+      }
+    },
+    {
+      "id": "32569871",
+      "pmid": "32569871",
+      "title": "Wnt modulation in bone healing.",
+      "authors": [
+        "Schupbach D",
+        "Comeau-Gauthier M",
+        "Harvey E",
+        "Merle G"
+      ],
+      "journal": "Bone",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1016/j.bone.2020.115491",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": -17.01,
+        "y": 0,
+        "z": 4.34
+      },
+      "rotation": {
+        "x": 0,
+        "y": 319.2047593971928,
+        "z": 0
+      }
+    },
+    {
+      "id": "31947750",
+      "pmid": "31947750",
+      "title": "Nanotechnology Scaffolds for Alveolar Bone Regeneration.",
+      "authors": [
+        "Funda G",
+        "Taschieri S",
+        "Bruno GA",
+        "Grecchi E",
+        "Paolo S"
+      ],
+      "journal": "Materials (Basel, Switzerland)",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.3390/ma13010201",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": -21.42,
+        "y": 0,
+        "z": 8.84
+      },
+      "rotation": {
+        "x": 0,
+        "y": 24.748242149419454,
+        "z": 0
+      }
+    },
+    {
+      "id": "32974298",
+      "pmid": "32974298",
+      "title": "Nanostructured Biomaterials for Bone Regeneration.",
+      "authors": [
+        "Lyons JG",
+        "Plantz MA",
+        "Hsu WK",
+        "Hsu EL",
+        "Minardi S"
+      ],
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.3389/fbioe.2020.00922",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": -37.8,
+        "y": 0,
+        "z": -0.73
+      },
+      "rotation": {
+        "x": 0,
+        "y": 139.76369652561485,
+        "z": 0
+      }
+    },
+    {
+      "id": "32087616",
+      "pmid": "32087616",
+      "title": "Bone in heart failure.",
+      "authors": [
+        "Loncar G",
+        "Cvetinovic N",
+        "Lainscak M",
+        "Isaković A",
+        "von Haehling S"
+      ],
+      "journal": "Journal of cachexia, sarcopenia and muscle",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1002/jcsm.12516",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": -33.22,
+        "y": 0,
+        "z": -3.15
+      },
+      "rotation": {
+        "x": 0,
+        "y": 128.11088774568827,
+        "z": 0
+      }
+    },
+    {
+      "id": "31823437",
+      "pmid": "31823437",
+      "title": "Metabolic bone diseases in intestinal failure.",
+      "authors": [
+        "Allan PJ",
+        "Lal S"
+      ],
+      "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1111/jhn.12726",
+      "abstract": "",
+      "category": "bone_regeneration",
+      "category_name": "骨再生与修复",
+      "flower_type": "rose",
+      "flower_color": "#FF6B6B",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": -39.31,
+        "y": 0,
+        "z": -4.88
+      },
+      "rotation": {
+        "x": 0,
+        "y": 94.05203299169582,
+        "z": 0
+      }
+    },
+    {
+      "id": "30153855",
+      "pmid": "30153855",
+      "title": "HSP90AA1-mediated autophagy promotes drug resistance in osteosarcoma.",
+      "authors": [
+        "Xiao X",
+        "Wang W",
+        "Li Y",
+        "Yang D",
+        "Li X"
+      ],
+      "journal": "Journal of experimental & clinical cancer research : CR",
+      "year": "2018",
+      "citations": 193,
+      "doi": "10.1186/s13046-018-0880-6",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 12,
+        "diameter": 54.73110997362451,
+        "stem_height": 54,
+        "scale": 1.3719999999999999
+      },
+      "position": {
+        "x": -15.82,
+        "y": 0,
+        "z": -18.05
+      },
+      "rotation": {
+        "x": 0,
+        "y": 107.1093286568205,
+        "z": 0
+      }
+    },
+    {
+      "id": "25882220",
+      "pmid": "25882220",
+      "title": "Doxorubicin Action on Mitochondria: Relevance to Osteosarcoma Therapy?",
+      "authors": [
+        "Armstrong J",
+        "Dass CR"
+      ],
+      "journal": "Current drug targets",
+      "year": "2018",
+      "citations": 184,
+      "doi": "10.2174/1389450116666150416115852",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 12,
+        "diameter": 53.91164991562634,
+        "stem_height": 53,
+        "scale": 1.3359999999999999
+      },
+      "position": {
+        "x": -4.38,
+        "y": 0,
+        "z": -22.46
+      },
+      "rotation": {
+        "x": 0,
+        "y": 240.93200364307367,
+        "z": 0
+      }
+    },
+    {
+      "id": "33467756",
+      "pmid": "33467756",
+      "title": "Future Directions in the Treatment of Osteosarcoma.",
+      "authors": [
+        "Smrke A",
+        "Anderson PM",
+        "Gulia A",
+        "Gennatas S",
+        "Huang PH"
+      ],
+      "journal": "Cells",
+      "year": "2021",
+      "citations": 171,
+      "doi": "10.3390/cells10010172",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 11,
+        "diameter": 52.69174207655505,
+        "stem_height": 51,
+        "scale": 1.284
+      },
+      "position": {
+        "x": -3.39,
+        "y": 0,
+        "z": -34.18
+      },
+      "rotation": {
+        "x": 0,
+        "y": 91.42145387551929,
+        "z": 0
+      }
+    },
+    {
+      "id": "27058531",
+      "pmid": "27058531",
+      "title": "Present Advances and Future Perspectives of Molecular Targeted Therapy for Osteosarcoma.",
+      "authors": [
+        "Shaikh AB",
+        "Li F",
+        "Li M",
+        "He B",
+        "He X"
+      ],
+      "journal": "International journal of molecular sciences",
+      "year": "2016",
+      "citations": 144,
+      "doi": "10.3390/ijms17040506",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 50.0,
+        "stem_height": 48,
+        "scale": 1.176
+      },
+      "position": {
+        "x": -22.18,
+        "y": 0,
+        "z": -13.41
+      },
+      "rotation": {
+        "x": 0,
+        "y": 322.67316247686097,
+        "z": 0
+      }
+    },
+    {
+      "id": "29782347",
+      "pmid": "29782347",
+      "title": "Current questions in bone sarcomas.",
+      "authors": [
+        "Strauss SJ",
+        "Whelan JS"
+      ],
+      "journal": "Current opinion in oncology",
+      "year": "2018",
+      "citations": 139,
+      "doi": "10.1097/CCO.0000000000000456",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 49.47456530637899,
+        "stem_height": 47,
+        "scale": 1.1560000000000001
+      },
+      "position": {
+        "x": -14.97,
+        "y": 0,
+        "z": -23.32
+      },
+      "rotation": {
+        "x": 0,
+        "y": 151.98793675535214,
+        "z": 0
+      }
+    },
+    {
+      "id": "30871044",
+      "pmid": "30871044",
+      "title": "Adjuvant Biophysical Therapies in Osteosarcoma.",
+      "authors": [
+        "Carina V",
+        "Costa V",
+        "Sartori M",
+        "Bellavia D",
+        "De Luca A"
+      ],
+      "journal": "Cancers",
+      "year": "2019",
+      "citations": 135,
+      "doi": "10.3390/cancers11030348",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 9,
+        "diameter": 49.047375096555626,
+        "stem_height": 46,
+        "scale": 1.1400000000000001
+      },
+      "position": {
+        "x": -28.22,
+        "y": 0,
+        "z": -28.41
+      },
+      "rotation": {
+        "x": 0,
+        "y": 130.63341945979232,
+        "z": 0
+      }
+    },
+    {
+      "id": "30754703",
+      "pmid": "30754703",
+      "title": "Identification of Prognostic and Predictive Osteosarcoma Biomarkers.",
+      "authors": [
+        "Zamborsky R",
+        "Kokavec M",
+        "Harsanyi S",
+        "Danisovic L"
+      ],
+      "journal": "Medical sciences (Basel, Switzerland)",
+      "year": "2019",
+      "citations": 103,
+      "doi": "10.3390/medsci7020028",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 6,
+        "diameter": 45.37222891273055,
+        "stem_height": 42,
+        "scale": 1.012
+      },
+      "position": {
+        "x": -15.39,
+        "y": 0,
+        "z": -23.0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 23.041553162361943,
+        "z": 0
+      }
+    },
+    {
+      "id": "29238848",
+      "pmid": "29238848",
+      "title": "Biology of Bone Sarcomas and New Therapeutic Developments.",
+      "authors": [
+        "Brown HK",
+        "Schiavone K",
+        "Gouin F",
+        "Heymann MF",
+        "Heymann D"
+      ],
+      "journal": "Calcified tissue international",
+      "year": "2018",
+      "citations": 91,
+      "doi": "10.1007/s00223-017-0372-2",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 6,
+        "diameter": 43.84848003542364,
+        "stem_height": 41,
+        "scale": 0.964
+      },
+      "position": {
+        "x": -0.2,
+        "y": 0,
+        "z": -24.99
+      },
+      "rotation": {
+        "x": 0,
+        "y": 118.23795519137677,
+        "z": 0
+      }
+    },
+    {
+      "id": "34201149",
+      "pmid": "34201149",
+      "title": "Sarcoma Metabolomics: Current Horizons and Future Perspectives.",
+      "authors": [
+        "Esperança-Martins M",
+        "Fernandes I",
+        "Soares do Brito J",
+        "Macedo D",
+        "Vasques H"
+      ],
+      "journal": "Cells",
+      "year": "2021",
+      "citations": 87,
+      "doi": "10.3390/cells10061432",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 43.31844763272204,
+        "stem_height": 40,
+        "scale": 0.948
+      },
+      "position": {
+        "x": -20.4,
+        "y": 0,
+        "z": -26.11
+      },
+      "rotation": {
+        "x": 0,
+        "y": 201.3970249380772,
+        "z": 0
+      }
+    },
+    {
+      "id": "27760307",
+      "pmid": "27760307",
+      "title": "Molecular genetics of osteosarcoma.",
+      "authors": [
+        "Rickel K",
+        "Fang F",
+        "Tao J"
+      ],
+      "journal": "Bone",
+      "year": "2017",
+      "citations": 86,
+      "doi": "10.1016/j.bone.2016.10.017",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 43.184046238739256,
+        "stem_height": 40,
+        "scale": 0.944
+      },
+      "position": {
+        "x": -16.77,
+        "y": 0,
+        "z": -24.91
+      },
+      "rotation": {
+        "x": 0,
+        "y": 185.92249952355667,
+        "z": 0
+      }
+    },
+    {
+      "id": "22935032",
+      "pmid": "22935032",
+      "title": "Oral and maxillofacial osteosarcoma in dogs: a review.",
+      "authors": [
+        "Farcas N",
+        "Arzi B",
+        "Verstraete FJ"
+      ],
+      "journal": "Veterinary and comparative oncology",
+      "year": "2014",
+      "citations": 79,
+      "doi": "10.1111/j.1476-5829.2012.00352.x",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 42.22048604328897,
+        "stem_height": 39,
+        "scale": 0.9159999999999999
+      },
+      "position": {
+        "x": -19.96,
+        "y": 0,
+        "z": -24.08
+      },
+      "rotation": {
+        "x": 0,
+        "y": 59.52551104826894,
+        "z": 0
+      }
+    },
+    {
+      "id": "24654989",
+      "pmid": "24654989",
+      "title": "Proteomics of osteosarcoma.",
+      "authors": [
+        "Bernardini G",
+        "Laschi M",
+        "Geminiani M",
+        "Santucci A"
+      ],
+      "journal": "Expert review of proteomics",
+      "year": "2014",
+      "citations": 77,
+      "doi": "10.1586/14789450.2014.900445",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 41.93741096848031,
+        "stem_height": 39,
+        "scale": 0.9079999999999999
+      },
+      "position": {
+        "x": -21.01,
+        "y": 0,
+        "z": -26.36
+      },
+      "rotation": {
+        "x": 0,
+        "y": 171.43093215097454,
+        "z": 0
+      }
+    },
+    {
+      "id": "29923370",
+      "pmid": "29923370",
+      "title": "Immunotherapy for osteosarcoma: Where do we go from here?",
+      "authors": [
+        "Wedekind MF",
+        "Wagner LM",
+        "Cripe TP"
+      ],
+      "journal": "Pediatric blood & cancer",
+      "year": "2018",
+      "citations": 60,
+      "doi": "10.1002/pbc.27227",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 39.364916731037084,
+        "stem_height": 37,
+        "scale": 0.84
+      },
+      "position": {
+        "x": -19.73,
+        "y": 0,
+        "z": -29.68
+      },
+      "rotation": {
+        "x": 0,
+        "y": 218.40116896032185,
+        "z": 0
+      }
+    },
+    {
+      "id": "17976362",
+      "pmid": "17976362",
+      "title": "Sarcoma.",
+      "authors": [
+        "Skubitz KM",
+        "D'Adamo DR"
+      ],
+      "journal": "Mayo Clinic proceedings",
+      "year": "2007",
+      "citations": 50,
+      "doi": "",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 37.67766952966369,
+        "stem_height": 36,
+        "scale": 0.8
+      },
+      "position": {
+        "x": -7.93,
+        "y": 0,
+        "z": -14.89
+      },
+      "rotation": {
+        "x": 0,
+        "y": 318.253139334462,
+        "z": 0
+      }
+    },
+    {
+      "id": "7002283",
+      "pmid": "7002283",
+      "title": "Intracortical osteosarcoma.",
+      "authors": [
+        "Kyriakos M"
+      ],
+      "journal": "Cancer",
+      "year": "1980",
+      "citations": 46,
+      "doi": "",
+      "abstract": "",
+      "category": "tumor",
+      "category_name": "骨肿瘤",
+      "flower_type": "hibiscus",
+      "flower_color": "#EF4444",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 36.95582495781317,
+        "stem_height": 35,
+        "scale": 0.784
+      },
+      "position": {
+        "x": -19.81,
+        "y": 0,
+        "z": -35.32
+      },
+      "rotation": {
+        "x": 0,
+        "y": 25.817068696668343,
+        "z": 0
+      }
+    },
+    {
+      "id": "34502117",
+      "pmid": "34502117",
+      "title": "Cytokines and Chemokines Involved in Osteoarthritis Pathogenesis.",
+      "authors": [
+        "Molnar V",
+        "Matišić V",
+        "Kodvanj I",
+        "Bjelica R",
+        "Jeleč Ž"
+      ],
+      "journal": "International journal of molecular sciences",
+      "year": "2021",
+      "citations": 181,
+      "doi": "10.3390/ijms22179208",
+      "abstract": "",
+      "category": "cartilage",
+      "category_name": "关节软骨研究",
+      "flower_type": "tulip",
+      "flower_color": "#C084FC",
+      "flower_props": {
+        "petal_count": 12,
+        "diameter": 53.63406011768427,
+        "stem_height": 52,
+        "scale": 1.3239999999999998
+      },
+      "position": {
+        "x": 14.01,
+        "y": 0,
+        "z": -17.42
+      },
+      "rotation": {
+        "x": 0,
+        "y": 281.24770882569874,
+        "z": 0
+      }
+    },
+    {
+      "id": "24810570",
+      "pmid": "24810570",
+      "title": "Adipose-derived stromal cells for osteoarticular repair: trophic function versus stem cell activity.",
+      "authors": [
+        "Ruetze M",
+        "Richter W"
+      ],
+      "journal": "Expert reviews in molecular medicine",
+      "year": "2014",
+      "citations": 114,
+      "doi": "10.1017/erm.2014.9",
+      "abstract": "",
+      "category": "cartilage",
+      "category_name": "关节软骨研究",
+      "flower_type": "tulip",
+      "flower_color": "#C084FC",
+      "flower_props": {
+        "petal_count": 7,
+        "diameter": 46.692695630078276,
+        "stem_height": 44,
+        "scale": 1.056
+      },
+      "position": {
+        "x": 13.74,
+        "y": 0,
+        "z": -27.23
+      },
+      "rotation": {
+        "x": 0,
+        "y": 342.4520264286246,
+        "z": 0
+      }
+    },
+    {
+      "id": "32650828",
+      "pmid": "32650828",
+      "title": "Bone marrow mesenchymal stem cell-derived exosomes protect cartilage damage and relieve knee osteoarthritis pain in a rat model of osteoarthritis.",
+      "authors": [
+        "He L",
+        "He T",
+        "Xing J",
+        "Zhou Q",
+        "Fan L"
+      ],
+      "journal": "Stem cell research & therapy",
+      "year": "2020",
+      "citations": 77,
+      "doi": "10.1186/s13287-020-01781-w",
+      "abstract": "",
+      "category": "cartilage",
+      "category_name": "关节软骨研究",
+      "flower_type": "tulip",
+      "flower_color": "#C084FC",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 41.93741096848031,
+        "stem_height": 39,
+        "scale": 0.9079999999999999
+      },
+      "position": {
+        "x": 16.76,
+        "y": 0,
+        "z": -25.0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 92.10347906492224,
+        "z": 0
+      }
+    },
+    {
+      "id": "30949840",
+      "pmid": "30949840",
+      "title": "A Second Career for Chondrocytes-Transformation into Osteoblasts.",
+      "authors": [
+        "Wolff LI",
+        "Hartmann C"
+      ],
+      "journal": "Current osteoporosis reports",
+      "year": "2019",
+      "citations": 69,
+      "doi": "10.1007/s11914-019-00511-3",
+      "abstract": "",
+      "category": "cartilage",
+      "category_name": "关节软骨研究",
+      "flower_type": "tulip",
+      "flower_color": "#C084FC",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 40.76655965729519,
+        "stem_height": 38,
+        "scale": 0.876
+      },
+      "position": {
+        "x": 16.38,
+        "y": 0,
+        "z": -13.16
+      },
+      "rotation": {
+        "x": 0,
+        "y": 34.29278279570405,
+        "z": 0
+      }
+    },
+    {
+      "id": "31608495",
+      "pmid": "31608495",
+      "title": "BMSCs-Derived Exosomes Ameliorate Pain Via Abrogation of Aberrant Nerve Invasion in Subchondral Bone in Lumbar Facet Joint Osteoarthritis.",
+      "authors": [
+        "Li J",
+        "Ding Z",
+        "Li Y",
+        "Wang W",
+        "Wang J"
+      ],
+      "journal": "Journal of orthopaedic research : official publication of the Orthopaedic Research Society",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1002/jor.24497",
+      "abstract": "",
+      "category": "cartilage",
+      "category_name": "关节软骨研究",
+      "flower_type": "tulip",
+      "flower_color": "#C084FC",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": 16.24,
+        "y": 0,
+        "z": -35.67
+      },
+      "rotation": {
+        "x": 0,
+        "y": 229.53988232641825,
+        "z": 0
+      }
+    },
+    {
+      "id": "32693649",
+      "pmid": "32693649",
+      "title": "MicroRNA-29b Promotes Subchondral Bone Loss in TMJ Osteoarthritis.",
+      "authors": [
+        "Sun JL",
+        "Yan JF",
+        "Yu SB",
+        "Zhao J",
+        "Lin QQ"
+      ],
+      "journal": "Journal of dental research",
+      "year": "2020",
+      "citations": 30,
+      "doi": "10.1177/0022034520937617",
+      "abstract": "",
+      "category": "cartilage",
+      "category_name": "关节软骨研究",
+      "flower_type": "tulip",
+      "flower_color": "#C084FC",
+      "flower_props": {
+        "petal_count": 5,
+        "diameter": 33.693063937629155,
+        "stem_height": 33,
+        "scale": 0.72
+      },
+      "position": {
+        "x": 14.01,
+        "y": 0,
+        "z": -30.55
+      },
+      "rotation": {
+        "x": 0,
+        "y": 66.25752121200917,
         "z": 0
       }
     }
